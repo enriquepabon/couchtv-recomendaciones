@@ -33,6 +33,12 @@ SKIP_VIDEO = re.compile(r"minecraft|roblox|fortnite|free ?fire|gta|gameplay|#sho
                         r"among us|banban|\bmods?\b|vs\b|reto|challenge|1.000.000|millonario",
                         re.I)
 
+# noticias por persona (su id en config.json de couch-tv): la etiqueta y el feed de Google News
+NEWS_PER_PERSON = 2
+NEWS = [("kike", "IA", "https://news.google.com/rss/search?q=inteligencia+artificial+when:1d&hl=es-419&gl=CO&ceid=CO:es-419"),
+        ("ehilin", "Mundo", "https://news.google.com/rss/headlines/section/topic/WORLD?hl=es-419&gl=CO&ceid=CO:es-419")]
+URL_SAFE = re.compile(r"^https://[^\s'\"<>\\`$]{1,1000}$")
+
 QUERY = """query($c: Country!, $p: [String!]){ popularTitles(country:$c, first:25,
  filter:{packages:$p}){ edges{ node{ objectType content(country:$c, language:"es"){
  title posterUrl genres{ translation(language:"es") } } } } } }"""
@@ -92,6 +98,38 @@ def youtube(recent):
     return None
 
 
+def news(label, feed):
+    import xml.etree.ElementTree as ET
+    out = []
+    for item in ET.fromstring(fetch(feed)).iter("item"):
+        source = (item.findtext("source") or "").strip()
+        title, link = (item.findtext("title") or "").strip(), (item.findtext("link") or "").strip()
+        if source and title.endswith(" - " + source):
+            title = title[: -len(source) - 3].strip()
+        if not title or not URL_SAFE.match(link):
+            continue
+        out.append({"subtitle": cut(f"{label} · {source}" if source else label, 60),
+                    "title": cut(title, 40), "url": link})
+        if len(out) >= NEWS_PER_PERSON:
+            break
+    return out
+
+
+def news_cards(previous):
+    """Las noticias de cada persona; si un feed falla, las que ya tenía."""
+    cards = []
+    for who, label, feed in NEWS:
+        try:
+            got = news(label, feed)
+        except Exception as e:
+            print(f"noticias {who}: el feed falló ({e})", file=sys.stderr)
+            got = []
+        got = [dict(c, who=[who]) for c in got] or [c for c in previous if c.get("who") == [who]]
+        print(f"noticias {who}: {len(got)}")
+        cards += got
+    return cards
+
+
 def main():
     today = dt.datetime.now(ZoneInfo("America/Bogota")).date()
     recs = json.loads(RECS.read_text()) if RECS.exists() else {"cards": []}
@@ -117,6 +155,7 @@ def main():
             cards.append(before[app])
             kept.append(key)
         print(f"{key}: {got['title'] if got else 'sin cambio'}")
+    cards += news_cards([c for c in recs.get("cards", []) if c.get("who")])
 
     RECS.write_text(json.dumps({"fecha": today.isoformat(), "fuente": "respaldo", "cards": cards},
                                indent=2, ensure_ascii=False) + "\n")

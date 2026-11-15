@@ -58,6 +58,27 @@ def main():
         elif app in before:
             cards.append(before[app])
             print(f"{key}: sin una elección válida, se deja la anterior", file=sys.stderr)
+    # noticias: dos por persona, con su "who"; si Claude no trae nada válido, las que ya estaban
+    for field, who, label in (("noticias_ia", "kike", "IA"), ("noticias_mundo", "ehilin", "Mundo")):
+        items = []
+        for n in answer.get(field) or [] if isinstance(answer.get(field), list) else []:
+            if not isinstance(n, dict) or not isinstance(n.get("title"), str) or not n["title"].strip():
+                continue
+            link = n.get("url") if isinstance(n.get("url"), str) else ""
+            if not (URL_RE.match(link) and len(link) <= 1000):
+                continue
+            source = " ".join(str(n.get("fuente") or "").split())
+            items.append({"subtitle": cut(f"{label} · {source}" if source else label, 60),
+                          "title": cut(n["title"], 40), "url": link, "who": [who]})
+            if len(items) >= 2:
+                break
+        if items:
+            entry[field] = [i["title"] for i in items]
+            new += 1
+        else:
+            items = [c for c in recs.get("cards", []) if c.get("who") == [who]]
+            print(f"{field}: sin noticias válidas, se dejan las anteriores", file=sys.stderr)
+        cards += items
     if new == 0:
         print("Ninguna elección válida", file=sys.stderr)
         return 1
