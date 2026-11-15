@@ -20,7 +20,7 @@ h=json.load(open('historial.json'));since=(dt.date.fromisoformat('$today')-dt.ti
 print('; '.join(sorted({x[k] for x in h if x.get('fecha','')>=since for k in ('netflix','prime','youtube') if x.get(k)})) or 'nada todavía')")
 prompt=$(sed -e "s|{FECHA}|$today|" -e "s|{RECIENTES}|${recent//|/-}|" scripts/prompt-claude.md)
 
-answer=$(claude -p "$prompt" --model sonnet --allowedTools "WebSearch" "WebFetch" "Bash(curl:*)" 2>>"$HOME/Library/Logs/couchtv-recomendaciones.err") \
+answer=$(claude -p "$prompt" --model sonnet --allowedTools "WebSearch" "WebFetch" "Bash(curl:*)" </dev/null 2>>"$HOME/Library/Logs/couchtv-recomendaciones.err") \
   || { echo "$(date): claude falló"; exit 0; }
 if ! printf '%s' "$answer" | python3 scripts/aplicar_claude.py; then
   echo "$(date): la respuesta no sirvió, se queda el respaldo"; git checkout -q -- recomendaciones.json historial.json; exit 0
