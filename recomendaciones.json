@@ -4,24 +4,56 @@
   "cards": [
     {
       "subtitle": "Hoy en Netflix",
-      "title": "Animales",
-      "value": "Película · Crimen",
-      "image": "https://images.justwatch.com/poster/348205840/s332/animales-2026.jpg",
+      "title": "Palacio",
+      "value": "Serie · Drama histórico",
+      "image": "https://images.justwatch.com/poster/357106986/s332/palacio.jpg",
       "app": "com.netflix.ninja"
     },
     {
       "subtitle": "Hoy en Prime Video",
-      "title": "Vivir el momento",
-      "value": "Película · Romance",
-      "image": "https://images.justwatch.com/poster/322799184/s332/we-live-in-time.jpg",
+      "title": "El drama",
+      "value": "Película · Comedia romá…",
+      "image": "https://images.justwatch.com/poster/344756600/s332/el-drama.jpg",
       "app": "com.amazon.amazonvideo.livingroom"
     },
     {
       "subtitle": "Hoy en YouTube",
-      "title": "Gilberto Santa Rosa - Conciencia",
+      "title": "Diomedes Díaz - Sueños y Vivencias",
       "value": "Tendencia en Colombia",
-      "image": "https://i.ytimg.com/vi/lxa5Y5MpvEE/hqdefault.jpg",
+      "image": "https://i.ytimg.com/vi/jOC1fqWDE7U/hqdefault.jpg",
       "app": "com.google.android.youtube.tv"
+    },
+    {
+      "subtitle": "IA · Quinta Fuerza",
+      "title": "Demandan a OpenAI, Google y Anthropic",
+      "url": "https://quintafuerza.mx/tecnologia/demandan-openai-google-anthropic-frenar-desarrollo-ia/",
+      "who": [
+        "kike"
+      ]
+    },
+    {
+      "subtitle": "IA · Dircomfidencial",
+      "title": "OpenAI pierde terreno frente a Anthropic",
+      "url": "https://dircomfidencial.com/marketing-digital/openai-se-queda-atras-en-ingresos-frente-a-anthropic-y-dispara-sus-perdidas-20261112-1601/",
+      "who": [
+        "kike"
+      ]
+    },
+    {
+      "subtitle": "Mundo · Infobae (EFE)",
+      "title": "Caos aéreo en EE. UU. por falla técnica",
+      "url": "https://www.infobae.com/america/agencias/2026/11/14/temas-del-dia-de-efe-internacional-del-sabado-14-de-noviembre-1200-gmt/",
+      "who": [
+        "ehilin"
+      ]
+    },
+    {
+      "subtitle": "Mundo · La Nación",
+      "title": "COP31 en Turquía: disputa por financiar…",
+      "url": "https://www.nacion.com/el-mundo/cop31-abre-en-turquia-con-disputa-por-el/RERVT3GEGNGOZI2FCKE2XDRGWU/story/",
+      "who": [
+        "ehilin"
+      ]
     }
   ]
 }

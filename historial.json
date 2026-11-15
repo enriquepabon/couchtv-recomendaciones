@@ -2,11 +2,19 @@
   {
     "fecha": "2026-11-15",
     "fuente": "claude",
-    "netflix": "Animales",
-    "netflix_por_que": "Estreno de 2026 que está entre lo más visto en Netflix Colombia, un thriller de crimen para ver en pareja.",
-    "prime": "Vivir el momento",
-    "prime_por_que": "Drama romántico muy popular hoy en Prime Video Colombia, ideal para una pareja adulta.",
-    "youtube": "Gilberto Santa Rosa - Conciencia",
-    "youtube_por_que": "Salsa clásica que está en tendencias de Colombia, buena música para la sala en Barranquilla."
+    "netflix": "Palacio",
+    "netflix_por_que": "Miniserie colombiana de 8 episodios sobre la toma del Palacio de Justicia, estrenada el 6 de noviembre y muy comentada; está entre lo más visto en Colombia.",
+    "prime": "El drama",
+    "prime_por_que": "Estreno de 2026 entre lo más popular de Prime en Colombia; comedia con romance y toque de suspenso, buena para ver en pareja.",
+    "youtube": "Diomedes Díaz - Sueños y Vivencias",
+    "youtube_por_que": "Número 1 en tendencias de Colombia hoy: vallenato clásico con letra, bueno para poner en el TV en la sala.",
+    "noticias_ia": [
+      "Demandan a OpenAI, Google y Anthropic",
+      "OpenAI pierde terreno frente a Anthropic"
+    ],
+    "noticias_mundo": [
+      "Caos aéreo en EE. UU. por falla técnica",
+      "COP31 en Turquía: disputa por financiar…"
+    ]
   }
 ]
