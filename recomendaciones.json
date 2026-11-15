@@ -4,23 +4,23 @@
   "cards": [
     {
       "subtitle": "Hoy en Netflix",
-      "title": "Palacio",
-      "value": "Serie · Drama",
-      "image": "https://images.justwatch.com/poster/357106986/s332/palacio.jpg",
+      "title": "Animales",
+      "value": "Película · Crimen",
+      "image": "https://images.justwatch.com/poster/348205840/s332/animales-2026.jpg",
       "app": "com.netflix.ninja"
     },
     {
       "subtitle": "Hoy en Prime Video",
-      "title": "Materia oscura",
-      "value": "Serie · Suspenso",
-      "image": "https://images.justwatch.com/poster/350513755/s332/materia-oscura.jpg",
+      "title": "Vivir el momento",
+      "value": "Película · Romance",
+      "image": "https://images.justwatch.com/poster/322799184/s332/we-live-in-time.jpg",
       "app": "com.amazon.amazonvideo.livingroom"
     },
     {
       "subtitle": "Hoy en YouTube",
-      "title": "MENTIRA - El Americano 4KT",
+      "title": "Gilberto Santa Rosa - Conciencia",
       "value": "Tendencia en Colombia",
-      "image": "https://i.ytimg.com/vi/oazzSnw5WV0/hqdefault.jpg",
+      "image": "https://i.ytimg.com/vi/lxa5Y5MpvEE/hqdefault.jpg",
       "app": "com.google.android.youtube.tv"
     }
   ]

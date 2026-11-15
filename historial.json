@@ -2,8 +2,11 @@
   {
     "fecha": "2026-11-15",
     "fuente": "claude",
-    "netflix": "Palacio",
-    "prime": "Materia oscura",
-    "youtube": "MENTIRA - El Americano 4KT"
+    "netflix": "Animales",
+    "netflix_por_que": "Estreno de 2026 que está entre lo más visto en Netflix Colombia, un thriller de crimen para ver en pareja.",
+    "prime": "Vivir el momento",
+    "prime_por_que": "Drama romántico muy popular hoy en Prime Video Colombia, ideal para una pareja adulta.",
+    "youtube": "Gilberto Santa Rosa - Conciencia",
+    "youtube_por_que": "Salsa clásica que está en tendencias de Colombia, buena música para la sala en Barranquilla."
   }
 ]
