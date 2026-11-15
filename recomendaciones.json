@@ -1,0 +1,26 @@
+{
+  "fecha": "2026-11-15",
+  "cards": [
+    {
+      "subtitle": "Hoy en Netflix",
+      "title": "Palacio",
+      "value": "Serie · Drama",
+      "image": "https://images.justwatch.com/poster/357106986/s332/palacio.jpg",
+      "app": "com.netflix.ninja"
+    },
+    {
+      "subtitle": "Hoy en Prime Video",
+      "title": "Materia oscura",
+      "value": "Serie · Suspenso",
+      "image": "https://images.justwatch.com/poster/350513755/s332/materia-oscura.jpg",
+      "app": "com.amazon.amazonvideo.livingroom"
+    },
+    {
+      "subtitle": "Hoy en YouTube",
+      "title": "MENTIRA - El Americano 4KT",
+      "value": "Tendencia en Colombia",
+      "image": "https://i.ytimg.com/vi/oazzSnw5WV0/hqdefault.jpg",
+      "app": "com.google.android.youtube.tv"
+    }
+  ]
+}
