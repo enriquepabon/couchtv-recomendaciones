@@ -1,56 +1,56 @@
 {
-  "fecha": "2026-11-15",
+  "fecha": "2026-11-16",
   "fuente": "claude",
   "cards": [
     {
       "subtitle": "Hoy en Netflix",
-      "title": "Palacio",
-      "value": "Serie · Drama histórico",
-      "image": "https://images.justwatch.com/poster/357106986/s332/palacio.jpg",
+      "title": "Al este del Edén",
+      "value": "Serie · Drama",
+      "image": "https://images.justwatch.com/poster/355131672/s332/al-este-del-eden.jpg",
       "app": "com.netflix.ninja"
     },
     {
       "subtitle": "Hoy en Prime Video",
-      "title": "El drama",
-      "value": "Película · Comedia romá…",
-      "image": "https://images.justwatch.com/poster/344756600/s332/el-drama.jpg",
+      "title": "Proyecto Salvación",
+      "value": "Película · Ciencia ficc…",
+      "image": "https://images.justwatch.com/poster/332605837/s332/proyecto-salvacion.jpg",
       "app": "com.amazon.amazonvideo.livingroom"
     },
     {
       "subtitle": "Hoy en YouTube",
-      "title": "Diomedes Díaz - Sueños y Vivencias",
-      "value": "Tendencia en Colombia",
-      "image": "https://i.ytimg.com/vi/jOC1fqWDE7U/hqdefault.jpg",
+      "title": "Daddy Yankee y amigos: Latin GRAMMY",
+      "value": "Música en vivo",
+      "image": "https://i.ytimg.com/vi/YSceJfZ-h0w/hqdefault.jpg",
       "app": "com.google.android.youtube.tv"
     },
     {
-      "subtitle": "IA · Quinta Fuerza",
-      "title": "Demandan a OpenAI, Google y Anthropic",
-      "url": "https://quintafuerza.mx/tecnologia/demandan-openai-google-anthropic-frenar-desarrollo-ia/",
+      "subtitle": "IA · Infobae",
+      "title": "Anthropic debuta en Nasdaq el jueves",
+      "url": "https://www.infobae.com/estados-unidos/2026/11/16/anthropic-sale-a-bolsa-fecha-precio-y-claves-del-debut-en-wall-street/",
       "who": [
         "kike"
       ]
     },
     {
-      "subtitle": "IA · Dircomfidencial",
-      "title": "OpenAI pierde terreno frente a Anthropic",
-      "url": "https://dircomfidencial.com/marketing-digital/openai-se-queda-atras-en-ingresos-frente-a-anthropic-y-dispara-sus-perdidas-20261112-1601/",
+      "subtitle": "IA · Google (blog oficial)",
+      "title": "Google lanza Gemini 4 Carbon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
       "who": [
         "kike"
       ]
     },
     {
-      "subtitle": "Mundo · Infobae (EFE)",
-      "title": "Caos aéreo en EE. UU. por falla técnica",
-      "url": "https://www.infobae.com/america/agencias/2026/11/14/temas-del-dia-de-efe-internacional-del-sabado-14-de-noviembre-1200-gmt/",
+      "subtitle": "Mundo · DW",
+      "title": "Cumbre Xi, Trump y Putin el jueves",
+      "url": "https://www.dw.com/es/china-confirma-cumbre-trilateral-entre-xi-trump-y-putin/a-79953948",
       "who": [
         "ehilin"
       ]
     },
     {
-      "subtitle": "Mundo · La Nación",
-      "title": "COP31 en Turquía: disputa por financiar…",
-      "url": "https://www.nacion.com/el-mundo/cop31-abre-en-turquia-con-disputa-por-el/RERVT3GEGNGOZI2FCKE2XDRGWU/story/",
+      "subtitle": "Mundo · laSexta",
+      "title": "Rusia rechaza a Ucrania en la OTAN",
+      "url": "https://www.lasexta.com/noticias/internacional/rusia-rechaza-entrada-ucrania-otan-cambio-donbas-exige-retirada-alianza-europa-este_202611156af9cb674196933d7ede2f40.html",
       "who": [
         "ehilin"
       ]

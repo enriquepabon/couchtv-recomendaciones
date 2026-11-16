@@ -16,5 +16,23 @@
       "Caos aéreo en EE. UU. por falla técnica",
       "COP31 en Turquía: disputa por financiar…"
     ]
+  },
+  {
+    "fecha": "2026-11-16",
+    "fuente": "claude",
+    "netflix": "Al este del Edén",
+    "netflix_por_que": "Drama de época de 2026, estreno popular en Netflix Colombia y buena opción para ver en pareja sin repetir lo de estos días.",
+    "prime": "Proyecto Salvación",
+    "prime_por_que": "Estreno de 2026 muy comentado en Prime Video: aventura espacial con humor y emoción, ideal para la pantalla grande de la sala.",
+    "youtube": "Daddy Yankee y amigos: Latin GRAMMY",
+    "youtube_por_que": "Actuación en vivo de los Latin GRAMMY 2026, en tendencia musical en Colombia y con buen sonido para el TV.",
+    "noticias_ia": [
+      "Anthropic debuta en Nasdaq el jueves",
+      "Google lanza Gemini 4 Carbon"
+    ],
+    "noticias_mundo": [
+      "Cumbre Xi, Trump y Putin el jueves",
+      "Rusia rechaza a Ucrania en la OTAN"
+    ]
   }
 ]
