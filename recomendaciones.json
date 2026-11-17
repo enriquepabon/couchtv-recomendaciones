@@ -1,56 +1,56 @@
 {
-  "fecha": "2026-11-16",
-  "fuente": "claude",
+  "fecha": "2026-11-17",
+  "fuente": "respaldo",
   "cards": [
     {
       "subtitle": "Hoy en Netflix",
-      "title": "Al este del Edén",
-      "value": "Serie · Drama",
-      "image": "https://images.justwatch.com/poster/355131672/s332/al-este-del-eden.jpg",
+      "title": "Dragon Ball Super: Beerus",
+      "value": "Serie · Animación",
+      "image": "https://images.justwatch.com/poster/354620109/s332/dragon-ball-super-beerus.jpg",
       "app": "com.netflix.ninja"
     },
     {
       "subtitle": "Hoy en Prime Video",
-      "title": "Proyecto Salvación",
-      "value": "Película · Ciencia ficc…",
-      "image": "https://images.justwatch.com/poster/332605837/s332/proyecto-salvacion.jpg",
+      "title": "Carrie",
+      "value": "Serie · Drama",
+      "image": "https://images.justwatch.com/poster/350899399/s332/carrie.jpg",
       "app": "com.amazon.amazonvideo.livingroom"
     },
     {
       "subtitle": "Hoy en YouTube",
-      "title": "Daddy Yankee y amigos: Latin GRAMMY",
-      "value": "Música en vivo",
-      "image": "https://i.ytimg.com/vi/YSceJfZ-h0w/hqdefault.jpg",
+      "title": "HAGALO (Remix)",
+      "value": "Tendencia en Colombia",
+      "image": "https://i.ytimg.com/vi/53r_NpXcZVA/hqdefault.jpg",
       "app": "com.google.android.youtube.tv"
     },
     {
-      "subtitle": "IA · Infobae",
-      "title": "Anthropic debuta en Nasdaq el jueves",
-      "url": "https://www.infobae.com/estados-unidos/2026/11/16/anthropic-sale-a-bolsa-fecha-precio-y-claves-del-debut-en-wall-street/",
+      "subtitle": "IA · Instituto Nacional de Contadores Públicos",
+      "title": "IAASB publicó una guía para fortalecer…",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPeEJ6UG1vTlplOXN3aGZqM0p3ZkRTa1BZbk5CY3BjeXFYN0t5MG40eEpTVGtKRlVFaFlzaWw1YUZ3MjVNRWhKWEhUdnVXZ0d0enJhLW5BZS1TTWlOejRwR2JhcGVrQXlORjlEeWlOTHZlbTNoa0tmdjZUbWdxbkhmU2VKU1lLYzdLNE10WVhLb1JxZnU4el9Ya2dFaEdmc0haU1FvMWoxeFhDWmR5dlpNVTd6Mk16RWtqV2hNZERtdHFqZ3BhaTFZTndUQWYyZkhUU1BnM2IzWGJKWHJlc2JpZEtpeGpxVmI0OEt3bGpyTnZXdl9fSFFTUDFJY0xNczItS0ZETjc0dXRQaGFYRFdYWHJMenlSX3VKRWtjekdsYzFNWE0?oc=5",
       "who": [
         "kike"
       ]
     },
     {
-      "subtitle": "IA · Google (blog oficial)",
-      "title": "Google lanza Gemini 4 Carbon",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+      "subtitle": "IA · Forbes Colombia",
+      "title": "¿Cuánto puede acelerar la inteligencia…",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUmg5NGV3TE4tU1RLaE51a1M3RWZEYTdlNGkwY0pJN2w1cDhDZ0c4YnQ0eUctZV9BaE85ZUdTbHh5QTE0aEJWTFZXQm05RHRKRTFWQWJRb0VSaTcwZ0NQMnlCV3RXRnQ5Qi1Ick80R1hZZHZNeWxONklkdnV6M3VFbF9rLS03d1VBMUgwRF9XLU9IV0FtbE8xdmxFTkNCcnI3QVpvQ3dDTnNRWXd3?oc=5",
       "who": [
         "kike"
       ]
     },
     {
-      "subtitle": "Mundo · DW",
-      "title": "Cumbre Xi, Trump y Putin el jueves",
-      "url": "https://www.dw.com/es/china-confirma-cumbre-trilateral-entre-xi-trump-y-putin/a-79953948",
+      "subtitle": "Mundo · DW.com",
+      "title": "El Papa concluye su viaje a Sudamérica…",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbjZ3dHBiUnU1Wk1DRzJncDBFQm1iY2dqaFFOWEgwd3gyN01aeXlGV1lUeWJqVHRZb3h1WjBLM1I1TS1OZVpLTlVEU2dEM1hiMlB3aTRCSmgtRmtPbDZvbC1RTXl1ZmgwUFZqSDV6OG92UEppbVdqRmtRTmZ1Y2tiN1gwdFdXTjE2NDAwMTdMQW4ycEV3MDRMQVN6QUJWOWdJSTZUTnY4S08wS0pJNml3aXpUSFp3a0RVR3R4d1J1eVZrTlRRN1F1SzVyQ3FBQ0VZ0gHQAUFVX3lxTE8yb2JBWTdhWVI2LXdNZmFZcjZVZVRkOUlRRXdaUFB5WmpmcVRfUzhQbUo0VGtxUl9pc0JSYkZrcDVmam0wV1BELWpxV2o0SkF0eGRKM1F1aE9NeWYzVnltQlVMODdNVVFvOGlKLTBmU1V3djVoOWEtTkc5b2sxTGN4aW9uSW9BT2ZTMVZfdmZYSGxzdXctdE9tRWpEdjVwQkUyS3QtLVdjeThndm9rX0tTWHp3SWF3cGJBR0FRRVM4T0hGSVdxMHpGSUxDOTlHUGY?oc=5",
       "who": [
         "ehilin"
       ]
     },
     {
-      "subtitle": "Mundo · laSexta",
-      "title": "Rusia rechaza a Ucrania en la OTAN",
-      "url": "https://www.lasexta.com/noticias/internacional/rusia-rechaza-entrada-ucrania-otan-cambio-donbas-exige-retirada-alianza-europa-este_202611156af9cb674196933d7ede2f40.html",
+      "subtitle": "Mundo · CNN en Español",
+      "title": "\"Esto es solo una prueba\": el test de l…",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWldEbUhfRnNtTUNuQlllSzFkTkhXQVBackU1WmlaYzAybEVCX2dGU2tKZGZSU19pX2wtbkY4Z3M4aFhnZXM4M3Z1MW15bG5JWUtpZnY3ZDNrSllXc2VFZkZ5V3VRa1Z0XzZhVnpTRllmMFhoZUQzSWlrSjdvR0hNV1BRZE9KLVd3UzR6b0NIQVdHTHF5VEVGVm9B?oc=5",
       "who": [
         "ehilin"
       ]
