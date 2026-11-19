@@ -1,56 +1,56 @@
 {
-  "fecha": "2026-11-18",
+  "fecha": "2026-11-19",
   "fuente": "respaldo",
   "cards": [
     {
       "subtitle": "Hoy en Netflix",
-      "title": "Un trabajo maldito",
-      "value": "Serie · Drama",
-      "image": "https://images.justwatch.com/poster/347833685/s332/dead-end-job.jpg",
+      "title": "Lupin",
+      "value": "Serie · Crimen",
+      "image": "https://images.justwatch.com/poster/309155294/s332/lupin.jpg",
       "app": "com.netflix.ninja"
     },
     {
       "subtitle": "Hoy en Prime Video",
-      "title": "La Lista Final",
+      "title": "Materia oscura",
       "value": "Serie · Drama",
-      "image": "https://images.justwatch.com/poster/317532028/s332/the-terminal-list.jpg",
+      "image": "https://images.justwatch.com/poster/350513755/s332/materia-oscura.jpg",
       "app": "com.amazon.amazonvideo.livingroom"
     },
     {
       "subtitle": "Hoy en YouTube",
-      "title": "Hágalo (Remix) - Køddy G ❌ Ryan Castro",
+      "title": "Avengers: Doomsday | The Return | In Th…",
       "value": "Tendencia en Colombia",
-      "image": "https://i.ytimg.com/vi/J-9EeAHWlVA/hqdefault.jpg",
+      "image": "https://i.ytimg.com/vi/Fg0jyss_YnU/hqdefault.jpg",
       "app": "com.google.android.youtube.tv"
     },
     {
-      "subtitle": "IA · Bogota.gov.co",
-      "title": "CIDEU invita a conocer cómo la intelige…",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc3RYaGVLYTN6WWxMTTlHZ3ZValoyS1FWRmN1eUs5MW5JeGkxeTMxbmhVNFNhUExQQnpBVXluUFBRVUh3WGxKa2l1T19YaE9oVl9yelUwSXNhUjlTdW5xdGFyMXo5bWpfT3drTXN5UmNBUlJlRWZhTmZMMG9rVkJXc1B5T0FhejFxYmR5eHo4bE1MZnptbFBpS09GRzFDaTlGb1BzeHhhSjd2Vk94?oc=5",
+      "subtitle": "IA · MinTIC",
+      "title": "La inteligencia artificial, una apuesta…",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPZDFackYyRGtQLVp2YTRGb21NbDV6dW95M3JjVTRMclk0cUl4RmRhQTk3VTlEQWloWUNvNDlIUVczMVNBMTFiZ3BLWFREVVNRbGwxV3Bka2wtWmNEdlhpN2hlQUtaaVkyOC1aNEhOUWpOdFg1N0J4OFNSbFpmeTBrb3dCYlFLNVJXNG92Z1VWUGRNYTlRTGFaaXVSRXIyZW9ETjc4Rl9LX3h6U0ZnRU5KZ0VGN2JIUTU0d2RqaUpvMXFFbFk2TW1fMXBNT1hRX3ljRWgzWHJDUjBNRWpKazhrZE5ySng2d0VEVy1MR1d0NHRGMjA5cEdadEJCOE9fUQ?oc=5",
       "who": [
         "kike"
       ]
     },
     {
-      "subtitle": "IA · International Atomic Energy Agency",
-      "title": "Perspectivas sobre la fusión en el mund…",
-      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNY0Exb0VXWnhUT1UwYUxsMGs0cV9Wb2VhOVJkVnFoVkNyODZFcUFUaFoyUUhpc3ExMURiZmRNdUFNZGZVc2twU0pBdnFVWWcxYXpZUUJYVlBIbTM2SU5VQkVtb2VfZmNLZjNGSmFCbHVoWV9ad0sxc2RGcVRBY0JncmF1TjJFbXRxX3JXdEFWNzdjVDNBdXJ4OWVvcTZicVVrR2lyYkdYdm9OaHlXdnk1V05vQ2NwUzVhODVqazFoclNubzlrTEhGTVQ3NVNNbXRQd2xja2M4ZF93U3FwOUVGUTJkN0NhVGhpZkxOWHN5VTF4clRqVF90dWlvaDdmbWFtbWJCcVpMdldWT1I5WVJwMV81ZjloRXJoT0JfTjE3VDNqSjZpcmIyQm0yZGZBS04yQXQzUzR3?oc=5",
+      "subtitle": "IA · El Tiempo",
+      "title": "Comisión Europea revela que fue víctima…",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOTZGQkNLU25pZF80aDhVdjBqdHdoVm9NV1VXYml0NGUwcy1KMDJCeFZTVC1ubXBuSHNUVlRidFFMNkZ6aUdxcmlrbEFvN014bzFOdm1pTExMRy1qb1RTTW9fUm5sMXE5QXlYa0FNbkFzbXNWN1JlOEI5VUVxZEh2bmwxNklEQ3NLUGNTcTE0eUkwV1NRb1JIemQ1MnNhc3dBVTA1V2QtNzdNbXl3cDJuUXc0TjlyX3pKc3ptZEh5QVlCVzhCLURnaGUzY2VtNTlNdGdFZXcyYVRsMW5HWElmSEFaN3pzajjSAewBQVVfeXFMUDhIRjdYZUt5TEszTG03R0VVcTdsSHhuZ04tVkFPdU4wcHBEZE9kNDNsRXpjejBPcVI2c09sMzFZZWNvSXFiXzM5N2otWXQxZHpBNHhxUWNZd0YyNDNoUmczVTBtLThnX2ZVWnZfcFF6Yml3dlU2UnN4cnRxN2g5N2JqMUlYMkp2MFpLQ3hiM2VDOVBZaTkwT3hkT1FWSHpSdnR1TkF3QS1MbGVCSkxjZDBPVXJqeW13cU15THdBbHA2eGdLeEhQZzQ4cUd2cVpMV0ZWQVRDTDNDMXVIaU5aclB4bFFWVnRFV3YyZFQ?oc=5",
       "who": [
         "kike"
       ]
     },
     {
-      "subtitle": "Mundo · DW.com",
-      "title": "Xi devuelve el gesto: recibe y abraza a…",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUW8weUFVNFNzR2pveEhFVkNaUWlra1RpdEpfNDFjWDRITkRZZ0RSQWZUeEZrVmRWZU02MjE4VkROejAtQ0NQczhPNlNOTjJpSEZxOGY0XzRvWkw1VllUc2otcFZtcjRkbE1PUW1lYnhwdXhVeHdGVGpBWDFuU19uLWVFZy1zd2pHZjdhUUdsb3MtdzM2NHNQVmZ3d0dWV0JZ0gGgAUFVX3lxTE5FM0NlQXNMaThHMlI2RFIwMUNtRnFuRDVOVUxtS0dxLWFRdGw3cmotWGtpM2d5dzExTFF4ZVdfYkt4bWZnblR6V1pMVEdIalFOcUVSeU05VVV4a2NHWjV2X2NXbi1TTFhWazBmelBmMkpNRG9OZEpFYjJ4eWdIb2FNcTdhdFNjdEY3eHo4QmlHa0x2QnRHcmxickRkTzdqZVg?oc=5",
+      "subtitle": "Mundo · BBC",
+      "title": "APEC: lo que Trump, Putin y Xi dijeron…",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aclVocXFrYzVfSkc0cUkyZ1VvanBvVVJRM2xLSkdTOElWb24yOHphRnVubDBvclkxWmFBR1RaUUV1N3pibGYtOWY2bWZVdnpTdU1tNTFwVnVIdVFV0gFiQVVfeXFMT1RXbkpnaTZadE8tcnFKV2dlUEpwRGJXeXNvQ051YjhrUGVMV09pNHF0OUJ0TEl3N1hhTlpyVDN6ZWRNZDNobVNfeGpITjV4TlY4TkhXVmlGNnJ6cXhqMHVxbGc?oc=5",
       "who": [
         "ehilin"
       ]
     },
     {
       "subtitle": "Mundo · DW.com",
-      "title": "Miles de personas marchan en Haití para…",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPLUliMGU5dF9hT3UzOUJDc3Vxbzl5di15WlQ5cWxJMzN2c1NjNWFQLXNIYVlDRnY2cURXeDB5aXZfSzBDMXBKR0NZWDJ1bW5nblh3a1hEVHJ5c09WT0IwdU1Bb3hxZERiNW9zb21yM1VIbjJJY0xGdlFRZEY5TjNCRGtTcHVMQXV0M0p1czhzNE43dmRGQy1zN2tDWHJtdEJObWR4VC1Yekh0SGxIVWFUVVpSQlRHbzZNMFpDMDdJc21LWXVPYWg5MXJ1bV82RUlQTGVuRtIB1AFBVV95cUxPVDZ5NFowckY1bWozNlJ6Qkw3dk9mUDFXa2twNl8yNnVJMXdBTTd0UlhRNHQ3QWViUHU2S2dHZ0VLV0JWT1VybWRsQjRETW5uU3ozR0htTlNFVzB4aHJJYkN2Q1BRdzh3aHhfQ1NNbWFONldETnJnNnJWMWtuUzlBWjdXaVJ1cGIzcUFlQkg3Q2MzWXF1elRFM2xQUnZUU3VmVmp2QXVfUnRON1ptWUY1OXBRbXI1eTIyWU9BSFlkSi1hNG9qLXdfeWwtZTU1Q1g3TUNJZw?oc=5",
+      "title": "La CIJ declara a Birmania responsable d…",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVVg2ZllmX1U5aGt0TUhtbm1pcUxzMlRORTNCTU5oNFdfMVRHaUVtV2NtZGRtQXh1N0RLYkhhTWJRbTBfc2p2Y29lVlJoXzJrcEZyWms0RS13TlYzTzF5WUhkMUx3UGh4WWZSNnI4MFU2TVZlTHB0cE5zSXdMeE1ibm5OZkFtZkZwUEdhbjhpNXpJZks2OG50RktVVEJ6U3E1dUlTV9IBpAFBVV95cUxQdnprRC1QOEdoSWJ4MjAtWFBfU054Y2t2UTZRS0pWSFBCRjVfNEhNRFlPT1p2UjFud3g4VjJTOGIySlVRcHpzTDJTMWsycURGaW1UaFZmeTY3LUhERWNiZWZsakx3SDlwaVZpU21XSzktbUVEQ3NUTnlsM3VoaTZwcjJRMWxfWVZSU2U5OWprc1hlOVBTR1NPWmpJbDlzZnhJVjVKeQ?oc=5",
       "who": [
         "ehilin"
       ]
