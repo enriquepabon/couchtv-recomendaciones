@@ -1,56 +1,56 @@
 {
-  "fecha": "2026-11-19",
+  "fecha": "2026-11-20",
   "fuente": "respaldo",
   "cards": [
     {
       "subtitle": "Hoy en Netflix",
-      "title": "Lupin",
-      "value": "Serie · Crimen",
-      "image": "https://images.justwatch.com/poster/309155294/s332/lupin.jpg",
+      "title": "El cuerpo",
+      "value": "Serie · Drama",
+      "image": "https://images.justwatch.com/poster/356945863/s332/the-body.jpg",
       "app": "com.netflix.ninja"
     },
     {
       "subtitle": "Hoy en Prime Video",
-      "title": "Materia oscura",
+      "title": "El Señor de los Anillos: Los Anillos de…",
       "value": "Serie · Drama",
-      "image": "https://images.justwatch.com/poster/350513755/s332/materia-oscura.jpg",
+      "image": "https://images.justwatch.com/poster/301085330/s332/el-senor-de-los-anillos.jpg",
       "app": "com.amazon.amazonvideo.livingroom"
     },
     {
       "subtitle": "Hoy en YouTube",
-      "title": "Avengers: Doomsday | The Return | In Th…",
+      "title": "OWA - KAPO",
       "value": "Tendencia en Colombia",
-      "image": "https://i.ytimg.com/vi/Fg0jyss_YnU/hqdefault.jpg",
+      "image": "https://i.ytimg.com/vi/Q0qoa-8XN8I/hqdefault.jpg",
       "app": "com.google.android.youtube.tv"
     },
     {
-      "subtitle": "IA · MinTIC",
-      "title": "La inteligencia artificial, una apuesta…",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPZDFackYyRGtQLVp2YTRGb21NbDV6dW95M3JjVTRMclk0cUl4RmRhQTk3VTlEQWloWUNvNDlIUVczMVNBMTFiZ3BLWFREVVNRbGwxV3Bka2wtWmNEdlhpN2hlQUtaaVkyOC1aNEhOUWpOdFg1N0J4OFNSbFpmeTBrb3dCYlFLNVJXNG92Z1VWUGRNYTlRTGFaaXVSRXIyZW9ETjc4Rl9LX3h6U0ZnRU5KZ0VGN2JIUTU0d2RqaUpvMXFFbFk2TW1fMXBNT1hRX3ljRWgzWHJDUjBNRWpKazhrZE5ySng2d0VEVy1MR1d0NHRGMjA5cEdadEJCOE9fUQ?oc=5",
+      "subtitle": "IA · Pan American Health Organization (PAHO)",
+      "title": "Inteligencia artificial para la salud…",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTkk2ZU9FWGoweHk1bksxckxkanlmVGxGNGZKUmdYS29oemE4Q3pXRjRaQzZSd2FnakFfekstUXlPemN6cFN2MFdGendxYnRuVl90NWdidHRHbXVfOVZicE15R2ozdHpGQUFzTy1MSURwV2pvZzhJaWVJWkZ1b0FSYU9PclNYQ1NVMG9sYlJhbmRocTJfMWlzX2xNMDFHUnBMYmFqUVlKekJiT1k2bVBJSDkyMGVlODRqSGFGdFBybw?oc=5",
       "who": [
         "kike"
       ]
     },
     {
-      "subtitle": "IA · El Tiempo",
-      "title": "Comisión Europea revela que fue víctima…",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOTZGQkNLU25pZF80aDhVdjBqdHdoVm9NV1VXYml0NGUwcy1KMDJCeFZTVC1ubXBuSHNUVlRidFFMNkZ6aUdxcmlrbEFvN014bzFOdm1pTExMRy1qb1RTTW9fUm5sMXE5QXlYa0FNbkFzbXNWN1JlOEI5VUVxZEh2bmwxNklEQ3NLUGNTcTE0eUkwV1NRb1JIemQ1MnNhc3dBVTA1V2QtNzdNbXl3cDJuUXc0TjlyX3pKc3ptZEh5QVlCVzhCLURnaGUzY2VtNTlNdGdFZXcyYVRsMW5HWElmSEFaN3pzajjSAewBQVVfeXFMUDhIRjdYZUt5TEszTG03R0VVcTdsSHhuZ04tVkFPdU4wcHBEZE9kNDNsRXpjejBPcVI2c09sMzFZZWNvSXFiXzM5N2otWXQxZHpBNHhxUWNZd0YyNDNoUmczVTBtLThnX2ZVWnZfcFF6Yml3dlU2UnN4cnRxN2g5N2JqMUlYMkp2MFpLQ3hiM2VDOVBZaTkwT3hkT1FWSHpSdnR1TkF3QS1MbGVCSkxjZDBPVXJqeW13cU15THdBbHA2eGdLeEhQZzQ4cUd2cVpMV0ZWQVRDTDNDMXVIaU5aclB4bFFWVnRFV3YyZFQ?oc=5",
+      "subtitle": "IA · CNN en Español",
+      "title": "La inteligencia artificial eliminará mu…",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS3pTQUdkX3dPUzJicTN3WEU5ZU14aXVkVGdEc2toT3AtdVdlWDRzZUQ5NlJuXzFDMVBBZTZhLXZjR3NMMDd6UlJZR0tValB4dW11MlVZOTcyVExPUEJWSHEzSW9EWFdyVm1JTVFpaVZYZmtxTzljQTBBWUd4Ym1adTVoOUx5WHlkWlVRTkZibnF0eWxZT0JabnA1MA?oc=5",
       "who": [
         "kike"
       ]
     },
     {
-      "subtitle": "Mundo · BBC",
-      "title": "APEC: lo que Trump, Putin y Xi dijeron…",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aclVocXFrYzVfSkc0cUkyZ1VvanBvVVJRM2xLSkdTOElWb24yOHphRnVubDBvclkxWmFBR1RaUUV1N3pibGYtOWY2bWZVdnpTdU1tNTFwVnVIdVFV0gFiQVVfeXFMT1RXbkpnaTZadE8tcnFKV2dlUEpwRGJXeXNvQ051YjhrUGVMV09pNHF0OUJ0TEl3N1hhTlpyVDN6ZWRNZDNobVNfeGpITjV4TlY4TkhXVmlGNnJ6cXhqMHVxbGc?oc=5",
+      "subtitle": "Mundo · DW.com",
+      "title": "Xi, Trump y Putin en Shenzhen: quién ga…",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN1BISk8tX3NUdTF2SFZJcjZLQ2FJbEw4eWVlQmc0M3I5T0lETUQ3dmpmVGZBNDFxZW5JQ1lZcWNaQzBmWDNacHpWeUZmZFluQmZYdmRMckMxaTdtakJ0MkZMT0VRalNyMHlTRERmQXMxVzlFZE1IcEpmaDNmSGRzMURuX21lY3E2Y0pKeFFzR1VmZGwyblQ1ZE1oaFVIRGhJWFFsVW8tNNIBpwFBVV95cUxQV3dkaGdabzU2bUxpT0dZSl9fTFl2QmdvbkF6eWxrZTdzZlFZU3c5N2E2Wl9RQW5zNi0yVFJZOExaYVdhTW5iMUlMekdoV19HV0RBNGh2UDhXdUJzTDE2MGhOaGNWRHl2aDVyUVhuUFJsUExDUmpjWjlBTUNYWkhhX1J0WjJCVWZlNUFUaHFvUGRiYXQtUEpQbllZMnYzaEFwSWx0dmotVQ?oc=5",
       "who": [
         "ehilin"
       ]
     },
     {
-      "subtitle": "Mundo · DW.com",
-      "title": "La CIJ declara a Birmania responsable d…",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVVg2ZllmX1U5aGt0TUhtbm1pcUxzMlRORTNCTU5oNFdfMVRHaUVtV2NtZGRtQXh1N0RLYkhhTWJRbTBfc2p2Y29lVlJoXzJrcEZyWms0RS13TlYzTzF5WUhkMUx3UGh4WWZSNnI4MFU2TVZlTHB0cE5zSXdMeE1ibm5OZkFtZkZwUEdhbjhpNXpJZks2OG50RktVVEJ6U3E1dUlTV9IBpAFBVV95cUxQdnprRC1QOEdoSWJ4MjAtWFBfU054Y2t2UTZRS0pWSFBCRjVfNEhNRFlPT1p2UjFud3g4VjJTOGIySlVRcHpzTDJTMWsycURGaW1UaFZmeTY3LUhERWNiZWZsakx3SDlwaVZpU21XSzktbUVEQ3NUTnlsM3VoaTZwcjJRMWxfWVZSU2U5OWprc1hlOVBTR1NPWmpJbDlzZnhJVjVKeQ?oc=5",
+      "subtitle": "Mundo · BBC",
+      "title": "Por qué la condena por genocidio contra…",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XbmMyODlkb0FkY2NrU1dnMmdiUU9XU3hrMUYxTzZfV0E3U0lmZ1RiUkZQT2NTb19SSnBiakJaRjI4VFhPeFNleTVYSmRGT0N6VU1SbkZzY1U3aFVN0gFiQVVfeXFMTlVSNi1JVy1Kbk9SWktpOWlMQWEyMEFDMHdOWmlENVU3UEZ1b3pHczF1enZWdWJicVdVaDBQeUhBTmFtaWFleVFVXzVLaV83a0o2dzNZdlFfVDJybUJ5eTVPVmc?oc=5",
       "who": [
         "ehilin"
       ]
