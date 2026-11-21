@@ -1,12 +1,12 @@
 {
-  "fecha": "2026-11-20",
+  "fecha": "2026-11-21",
   "fuente": "respaldo",
   "cards": [
     {
       "subtitle": "Hoy en Netflix",
-      "title": "El cuerpo",
-      "value": "Serie · Drama",
-      "image": "https://images.justwatch.com/poster/356945863/s332/the-body.jpg",
+      "title": "Fargo",
+      "value": "Serie · Crimen",
+      "image": "https://images.justwatch.com/poster/310114519/s332/fargo.jpg",
       "app": "com.netflix.ninja"
     },
     {
@@ -18,39 +18,39 @@
     },
     {
       "subtitle": "Hoy en YouTube",
-      "title": "OWA - KAPO",
+      "title": "Anuel AA | SE TOCO EL T*TITO CON MI GL*…",
       "value": "Tendencia en Colombia",
-      "image": "https://i.ytimg.com/vi/Q0qoa-8XN8I/hqdefault.jpg",
+      "image": "https://i.ytimg.com/vi/1lOvAvBlzSM/hqdefault.jpg",
       "app": "com.google.android.youtube.tv"
     },
     {
-      "subtitle": "IA · Pan American Health Organization (PAHO)",
-      "title": "Inteligencia artificial para la salud…",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTkk2ZU9FWGoweHk1bksxckxkanlmVGxGNGZKUmdYS29oemE4Q3pXRjRaQzZSd2FnakFfekstUXlPemN6cFN2MFdGendxYnRuVl90NWdidHRHbXVfOVZicE15R2ozdHpGQUFzTy1MSURwV2pvZzhJaWVJWkZ1b0FSYU9PclNYQ1NVMG9sYlJhbmRocTJfMWlzX2xNMDFHUnBMYmFqUVlKekJiT1k2bVBJSDkyMGVlODRqSGFGdFBybw?oc=5",
+      "subtitle": "IA · LaRepublica.co",
+      "title": "La incertidumbre sobre la IA golpea a W…",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZ01oMV81NnZwZnJJZWJfQlIyTDRRYnh3bTZvc19sWTRXRFdTZTFLZ3NYdkVuQVVEenN6STE0WXVBcjRLTlNGQkNuUWd4SUtUZ0lBX21tMHR3UWdKME1kcEg3bUpPV1lQRGcxeXlWT2ZDZG9ZaDFzWlJJQTZsMEJRT1duZmhDYVJiMEZ3dTd6eEVnaGh5TEtpNWZsemV3VmNtLUZUa2FSSHhBVWhKNFk1ajNfSVhFX3E4OENzMVNFWU5nVEJNQmFDZkVQUUxlRzJxd0hQYVFLdTVlTDJp0gHcAUFVX3lxTE5EOURRc2QzckNOVjZLbzFHczhuaUZXUnl4SEhOUWhuQ05lbEFmSU1GVy03VTlFbHN0N1BnR2lHQldOOUxGVkVFVzhOOVRWcDlwdnlIMUtlZm14SkZJUXBxZGxFWGp6bFJGOWRKeThqMkhvaUtGQjluMWxpTE8yZzVIWUdDb0F0bG1JaUdLdzJ0NzVBdVl0ay1jUVVxeWVwY2pDSHk5ZUVOdHpHRjk2Z3RrZERxWkpNRUd1MEdWWHA2ckp1eTFFOENod1VzZGQ0OTVvT25TODRwSWlNNzM?oc=5",
       "who": [
         "kike"
       ]
     },
     {
-      "subtitle": "IA · CNN en Español",
-      "title": "La inteligencia artificial eliminará mu…",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS3pTQUdkX3dPUzJicTN3WEU5ZU14aXVkVGdEc2toT3AtdVdlWDRzZUQ5NlJuXzFDMVBBZTZhLXZjR3NMMDd6UlJZR0tValB4dW11MlVZOTcyVExPUEJWSHEzSW9EWFdyVm1JTVFpaVZYZmtxTzljQTBBWUd4Ym1adTVoOUx5WHlkWlVRTkZibnF0eWxZT0JabnA1MA?oc=5",
+      "subtitle": "IA · Actualícese",
+      "title": "Inteligencia Artificial Aplicada a la P…",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTjdfTUNBUFQ0eG9EeEJFcWRIYUlqcHRNMFlUU1VVa2NiX0YwaVc4ekctNTdZU2lIaWRKd1V6UmhWR3lxR29MY2JUMkVhUmhFVDFHTlNGZjc0YXpNZjZxa283ZExrVVk3MFZGdUhDWW0zcS1YYmVBM2UxUjVSdG1RcVVzekZLam5DV3BncjRwYmItMWhJSDdzWGJSSk9TXzZWVkNLeG9iTEdFcU42bVdYSTFRR2YwVjBaMzZEZ3hBUzNlUnZ4bEFIT1VB?oc=5",
       "who": [
         "kike"
       ]
     },
     {
-      "subtitle": "Mundo · DW.com",
-      "title": "Xi, Trump y Putin en Shenzhen: quién ga…",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN1BISk8tX3NUdTF2SFZJcjZLQ2FJbEw4eWVlQmc0M3I5T0lETUQ3dmpmVGZBNDFxZW5JQ1lZcWNaQzBmWDNacHpWeUZmZFluQmZYdmRMckMxaTdtakJ0MkZMT0VRalNyMHlTRERmQXMxVzlFZE1IcEpmaDNmSGRzMURuX21lY3E2Y0pKeFFzR1VmZGwyblQ1ZE1oaFVIRGhJWFFsVW8tNNIBpwFBVV95cUxQV3dkaGdabzU2bUxpT0dZSl9fTFl2QmdvbkF6eWxrZTdzZlFZU3c5N2E2Wl9RQW5zNi0yVFJZOExaYVdhTW5iMUlMekdoV19HV0RBNGh2UDhXdUJzTDE2MGhOaGNWRHl2aDVyUVhuUFJsUExDUmpjWjlBTUNYWkhhX1J0WjJCVWZlNUFUaHFvUGRiYXQtUEpQbllZMnYzaEFwSWx0dmotVQ?oc=5",
+      "subtitle": "Mundo · El Tiempo",
+      "title": "Reportan nuevo temblor de magnitud 5,0…",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNZXhBUzV1dldLNkxxTF8ybG1oN01lSmxLakxXZ0dQV3pQM3VqWFZNMUpsVmNRZEk0SV96dndLOS1wbjhmRW5GaGVQb1ZuMVlNeHpuRldKeU5rV3Z2QWo4azNTTndpcUk3bEFjbE9HUy0yOUMxMk81UXlCdk5iRm9VQmNTS2w4OW5YOFhieEdyaktRWDFpRDhTREhYR3hpVXcwRGFrQWdMNktiNHZadVlwYmJ3RWFVQzZZaWFhZkhZaWN5eS1qd2tMQ1VVZ0JQTnRHYnl3TExMSGdIMm0ybnFCbzIyY1F5SmVfOFE2Sk1hbW5oejh6MDdWd1M4a3k5SWc2UGc2emNua09KV3VKR1dqaTlLWE1KQlRaQ3loWXJ0QXdsZzF00gGqAkFVX3lxTE5rTS1USFpHSTJqQ1dBd1BoaGZOZFVSWmpsaEYwYnF1cFNVS04tN000OUE0Sks0V3VRY0pMSThrMEFXc2x4R3ExdldtYXI1NkJ4Uko0Uk81NUFFMnMwZFVZdjdHNHBrYndfX3piTW5RVEZydW9PZ01VWnptTC1UR1hHcEZQNTluRm5yd29jQ2R4Zm9OT0diaHhCd0pscHNGTTNxOU1lNllKUmtVQUdxUF92WVQzTEVqeUhjYWtqeHNVZVZYdGY4VkgweEJHbmRwX1Q4NG5zWEctaHozcDUzUWdqWlk0UzRkMFpfMlkwX3VmU0Y2T0dRT191bWpIdmNielozU000N1ZwZGVZRjhfNnczTEp3RzU3Q0NwNnlYWXAwZllocHl3d3YtNXc?oc=5",
       "who": [
         "ehilin"
       ]
     },
     {
-      "subtitle": "Mundo · BBC",
-      "title": "Por qué la condena por genocidio contra…",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XbmMyODlkb0FkY2NrU1dnMmdiUU9XU3hrMUYxTzZfV0E3U0lmZ1RiUkZQT2NTb19SSnBiakJaRjI4VFhPeFNleTVYSmRGT0N6VU1SbkZzY1U3aFVN0gFiQVVfeXFMTlVSNi1JVy1Kbk9SWktpOWlMQWEyMEFDMHdOWmlENVU3UEZ1b3pHczF1enZWdWJicVdVaDBQeUhBTmFtaWFleVFVXzVLaV83a0o2dzNZdlFfVDJybUJ5eTVPVmc?oc=5",
+      "subtitle": "Mundo · CNN en Español",
+      "title": "Cómo dos palabras podrían descarrilar l…",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeDlpWEZmRHljS2RCX3ZPZzNqbVNuemJSU2ZVMzJmZG1XWllxU1o0UExXaTVTclBUcFNWZnVKSTRsUGZ1VGFHZmxva0FmRkpGdWhqNGFObjc2UHdfcU9ucXFmLU4tUEZXMnNHWEl1Sk1vS2s4ZXFESkZxYkVxWGl4ZzJXMUd0TUpyRFRXU243c2RvRlJxS0ZMNWJjWHU?oc=5",
       "who": [
         "ehilin"
       ]
