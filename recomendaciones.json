@@ -1,12 +1,12 @@
 {
-  "fecha": "2026-11-21",
+  "fecha": "2026-11-22",
   "fuente": "respaldo",
   "cards": [
     {
       "subtitle": "Hoy en Netflix",
-      "title": "Fargo",
+      "title": "Palomas negras",
       "value": "Serie · Crimen",
-      "image": "https://images.justwatch.com/poster/310114519/s332/fargo.jpg",
+      "image": "https://images.justwatch.com/poster/357114528/s332/palomas-negras.jpg",
       "app": "com.netflix.ninja"
     },
     {
@@ -18,39 +18,39 @@
     },
     {
       "subtitle": "Hoy en YouTube",
-      "title": "Anuel AA | SE TOCO EL T*TITO CON MI GL*…",
+      "title": "Snyder, ¿deja Escape de Nueva York por…",
       "value": "Tendencia en Colombia",
-      "image": "https://i.ytimg.com/vi/1lOvAvBlzSM/hqdefault.jpg",
+      "image": "https://i.ytimg.com/vi/hHiB3eGGt40/hqdefault.jpg",
       "app": "com.google.android.youtube.tv"
     },
     {
-      "subtitle": "IA · LaRepublica.co",
-      "title": "La incertidumbre sobre la IA golpea a W…",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZ01oMV81NnZwZnJJZWJfQlIyTDRRYnh3bTZvc19sWTRXRFdTZTFLZ3NYdkVuQVVEenN6STE0WXVBcjRLTlNGQkNuUWd4SUtUZ0lBX21tMHR3UWdKME1kcEg3bUpPV1lQRGcxeXlWT2ZDZG9ZaDFzWlJJQTZsMEJRT1duZmhDYVJiMEZ3dTd6eEVnaGh5TEtpNWZsemV3VmNtLUZUa2FSSHhBVWhKNFk1ajNfSVhFX3E4OENzMVNFWU5nVEJNQmFDZkVQUUxlRzJxd0hQYVFLdTVlTDJp0gHcAUFVX3lxTE5EOURRc2QzckNOVjZLbzFHczhuaUZXUnl4SEhOUWhuQ05lbEFmSU1GVy03VTlFbHN0N1BnR2lHQldOOUxGVkVFVzhOOVRWcDlwdnlIMUtlZm14SkZJUXBxZGxFWGp6bFJGOWRKeThqMkhvaUtGQjluMWxpTE8yZzVIWUdDb0F0bG1JaUdLdzJ0NzVBdVl0ay1jUVVxeWVwY2pDSHk5ZUVOdHpHRjk2Z3RrZERxWkpNRUd1MEdWWHA2ckp1eTFFOENod1VzZGQ0OTVvT25TODRwSWlNNzM?oc=5",
+      "subtitle": "IA · Caracol Radio",
+      "title": "Estudiantes de colegios públicos de 52…",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbWhSYVVZQ0hTVXNxX2YwcXU3UExJOWV2R1dKMGo1LW1LUHFhd1pqVUwtRHBZN2NaUzhiZ3MyNmNOblowc1NWcEJZNy13MmEyaWdESjdpZ28zdGtBd2wwR2ZDaVFoQloxcEg3TjFWcTF5MHZqLUlNLXc3NUt0bmJTdEMzSmE2SHprWFRTQUFhc0c1LUV4UlZrTDhnejNWT3JfdXdlR3FWMmRZSnNvckNkUC1iTWJvY1ZpTV9mTThWTW9jS1BMMEpaQ0s0Q05yUlNE0gHkAUFVX3lxTE9YLVBDX0ZobUxSUVF1dkQtYVE5ajB4a1BpZjdmalpfdXdMLW4yMVBzTTF0WFBSYUpqQzVEQWhrSlZfNUQzQU45emxhUE14WEROMk5vY19qNEZkVWRscnJiNVRROWlpV2VDWmxwdE1DendWVU05NW9SN1FwNmNTR1JidjM5OERYSkJDcmc1ZnBBQkpLTDJMbzVIMFlQTWRqa0xpcHotQlJzTFdTclVFSTRFTENrclUxZi1aYU9NMURST1lpNjE0QXBkMzdVVVNwcVRwWE9MYV9Gd0QwcDdBblcxY2lpYg?oc=5",
       "who": [
         "kike"
       ]
     },
     {
-      "subtitle": "IA · Actualícese",
-      "title": "Inteligencia Artificial Aplicada a la P…",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTjdfTUNBUFQ0eG9EeEJFcWRIYUlqcHRNMFlUU1VVa2NiX0YwaVc4ekctNTdZU2lIaWRKd1V6UmhWR3lxR29MY2JUMkVhUmhFVDFHTlNGZjc0YXpNZjZxa283ZExrVVk3MFZGdUhDWW0zcS1YYmVBM2UxUjVSdG1RcVVzekZLam5DV3BncjRwYmItMWhJSDdzWGJSSk9TXzZWVkNLeG9iTEdFcU42bVdYSTFRR2YwVjBaMzZEZ3hBUzNlUnZ4bEFIT1VB?oc=5",
+      "subtitle": "IA · Diario del Cauca",
+      "title": "La inteligencia artificial acelera la i…",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPak1hbkhVdWhkS2dZMi1aMW5tNFp6aGRXNzNuZ3lmOVNCb1NiejE0a0lSNkE1NTRHN0NXVFNEaWVuMXdzUDZpa0lndm1mUnhiZ093cXE5SGRMY2RadDhfWVF3M3JZbE12MUlVTFJtXzhITVBtRnhHemVjYnAwbnZYV1BZOGFhdERuWF9GOWdqd1RrVkRGQ04tbmxjTVdXR0d5enl6cHd5dTNqSG5OajAyWWozUzktcW01?oc=5",
       "who": [
         "kike"
       ]
     },
     {
-      "subtitle": "Mundo · El Tiempo",
-      "title": "Reportan nuevo temblor de magnitud 5,0…",
-      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNZXhBUzV1dldLNkxxTF8ybG1oN01lSmxLakxXZ0dQV3pQM3VqWFZNMUpsVmNRZEk0SV96dndLOS1wbjhmRW5GaGVQb1ZuMVlNeHpuRldKeU5rV3Z2QWo4azNTTndpcUk3bEFjbE9HUy0yOUMxMk81UXlCdk5iRm9VQmNTS2w4OW5YOFhieEdyaktRWDFpRDhTREhYR3hpVXcwRGFrQWdMNktiNHZadVlwYmJ3RWFVQzZZaWFhZkhZaWN5eS1qd2tMQ1VVZ0JQTnRHYnl3TExMSGdIMm0ybnFCbzIyY1F5SmVfOFE2Sk1hbW5oejh6MDdWd1M4a3k5SWc2UGc2emNua09KV3VKR1dqaTlLWE1KQlRaQ3loWXJ0QXdsZzF00gGqAkFVX3lxTE5rTS1USFpHSTJqQ1dBd1BoaGZOZFVSWmpsaEYwYnF1cFNVS04tN000OUE0Sks0V3VRY0pMSThrMEFXc2x4R3ExdldtYXI1NkJ4Uko0Uk81NUFFMnMwZFVZdjdHNHBrYndfX3piTW5RVEZydW9PZ01VWnptTC1UR1hHcEZQNTluRm5yd29jQ2R4Zm9OT0diaHhCd0pscHNGTTNxOU1lNllKUmtVQUdxUF92WVQzTEVqeUhjYWtqeHNVZVZYdGY4VkgweEJHbmRwX1Q4NG5zWEctaHozcDUzUWdqWlk0UzRkMFpfMlkwX3VmU0Y2T0dRT191bWpIdmNielozU000N1ZwZGVZRjhfNnczTEp3RzU3Q0NwNnlYWXAwZllocHl3d3YtNXc?oc=5",
+      "subtitle": "Mundo · DW.com",
+      "title": "La UE y Panamá se oponen a la adopción…",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa3hfMEV0MUZUMHM2X0w1bmkzQ0IzaHBQRFdVTGpyeThiUlRDN1piXzdhbkVRRVVfUi12WlVONHJnZ2J3VDU2OTliV0hBM1dGOEc4aF9UaVFOdlcwaDdhRUlpRjhsOFVKTnRacGtteUdSUWI5NzJvVDBGTVl6NDRjc3Q2ZnZCcVJHbWZnRGJXRlNmcUJmNHdSUlc5WnNWSTJBNU9IOFltQWlDVi1k0gGsAUFVX3lxTE8xV0FsWGx3VGZETElaM1VoLS1SemVKaUNoSXVhZUQ3ek1fRVN2VVpnU0xRU0M5cFhJRHpxelFIRnM2OFEzTHdveW9ySXprLWZKRzBnRFd0SVBJZ0FJY2d6UnI4cVRBMjBVbkFiOXVIMnhUY1BWbHJ0YXZhS01acy1MMHhvWkJVYTlhLW00SnlQR2RsT1ZnRWU0a0Z6M25ablVCV0Z6QVNGZ3dDalU?oc=5",
       "who": [
         "ehilin"
       ]
     },
     {
       "subtitle": "Mundo · CNN en Español",
-      "title": "Cómo dos palabras podrían descarrilar l…",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeDlpWEZmRHljS2RCX3ZPZzNqbVNuemJSU2ZVMzJmZG1XWllxU1o0UExXaTVTclBUcFNWZnVKSTRsUGZ1VGFHZmxva0FmRkpGdWhqNGFObjc2UHdfcU9ucXFmLU4tUEZXMnNHWEl1Sk1vS2s4ZXFESkZxYkVxWGl4ZzJXMUd0TUpyRFRXU243c2RvRlJxS0ZMNWJjWHU?oc=5",
+      "title": "Agentes de ICE arrestan a dos inmigrant…",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeWt6c2oyQ3JnajBCT0c5ZkJHVndRTXlRUFcycVhEZ2pkRmpHekxhTENHREVXNEJSay1pQl9Ia0hQUlRXT3g1UEhhejVkWWdDd2RUQWlyNXFKZDVuMHdrODBvUUhZTTVBYjMyTzBhZXZmc3FJNkVLVEwtNmpqV2k2RUVkYUFka00zVm5jS3pJUzBJUGwyOTFmMVJ2SFNnQQ?oc=5",
       "who": [
         "ehilin"
       ]
