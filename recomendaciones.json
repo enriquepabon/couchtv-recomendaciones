@@ -1,12 +1,12 @@
 {
-  "fecha": "2026-11-22",
+  "fecha": "2026-11-23",
   "fuente": "respaldo",
   "cards": [
     {
       "subtitle": "Hoy en Netflix",
-      "title": "Palomas negras",
-      "value": "Serie · Crimen",
-      "image": "https://images.justwatch.com/poster/357114528/s332/palomas-negras.jpg",
+      "title": "Godzilla Minus One",
+      "value": "Película · Drama",
+      "image": "https://images.justwatch.com/poster/311260247/s332/godzilla-minus-one.jpg",
       "app": "com.netflix.ninja"
     },
     {
@@ -18,39 +18,39 @@
     },
     {
       "subtitle": "Hoy en YouTube",
-      "title": "Snyder, ¿deja Escape de Nueva York por…",
+      "title": "Don Omar - Virtual Diva",
       "value": "Tendencia en Colombia",
-      "image": "https://i.ytimg.com/vi/hHiB3eGGt40/hqdefault.jpg",
+      "image": "https://i.ytimg.com/vi/12QNKcrTrnw/hqdefault.jpg",
       "app": "com.google.android.youtube.tv"
     },
     {
-      "subtitle": "IA · Caracol Radio",
-      "title": "Estudiantes de colegios públicos de 52…",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbWhSYVVZQ0hTVXNxX2YwcXU3UExJOWV2R1dKMGo1LW1LUHFhd1pqVUwtRHBZN2NaUzhiZ3MyNmNOblowc1NWcEJZNy13MmEyaWdESjdpZ28zdGtBd2wwR2ZDaVFoQloxcEg3TjFWcTF5MHZqLUlNLXc3NUt0bmJTdEMzSmE2SHprWFRTQUFhc0c1LUV4UlZrTDhnejNWT3JfdXdlR3FWMmRZSnNvckNkUC1iTWJvY1ZpTV9mTThWTW9jS1BMMEpaQ0s0Q05yUlNE0gHkAUFVX3lxTE9YLVBDX0ZobUxSUVF1dkQtYVE5ajB4a1BpZjdmalpfdXdMLW4yMVBzTTF0WFBSYUpqQzVEQWhrSlZfNUQzQU45emxhUE14WEROMk5vY19qNEZkVWRscnJiNVRROWlpV2VDWmxwdE1DendWVU05NW9SN1FwNmNTR1JidjM5OERYSkJDcmc1ZnBBQkpLTDJMbzVIMFlQTWRqa0xpcHotQlJzTFdTclVFSTRFTENrclUxZi1aYU9NMURST1lpNjE0QXBkMzdVVVNwcVRwWE9MYV9Gd0QwcDdBblcxY2lpYg?oc=5",
+      "subtitle": "IA · Gobernación de Boyacá",
+      "title": "Mujeres boyacenses acceden a cinco ruta…",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOS1FwcTZuQjhLRG10VTgzNHZvZEpRaDgxLVZaTERQbUo1eF9SRE5Cd2dobENyRVk5bktpTTFaUW1FQTFZWE9iX0ZWMndONmplRmVIZjRQbW9LZWdEUFZtb2d2cWIyTFFfWURva01kTEU4TWtWYVBKUGM5bUhzSDdpR2NzREhwRVprblo3Q1ZvVm1BbFlMZTV6SE9IS2ZLejhJbGxzNTZIV291VUFBcUhiQ1VnbXd1Wmx2NWx5aVdxVHI5Y3hwUThUV3pjaDRXR1Y5cU1UT3dsYTQ?oc=5",
       "who": [
         "kike"
       ]
     },
     {
-      "subtitle": "IA · Diario del Cauca",
-      "title": "La inteligencia artificial acelera la i…",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPak1hbkhVdWhkS2dZMi1aMW5tNFp6aGRXNzNuZ3lmOVNCb1NiejE0a0lSNkE1NTRHN0NXVFNEaWVuMXdzUDZpa0lndm1mUnhiZ093cXE5SGRMY2RadDhfWVF3M3JZbE12MUlVTFJtXzhITVBtRnhHemVjYnAwbnZYV1BZOGFhdERuWF9GOWdqd1RrVkRGQ04tbmxjTVdXR0d5enl6cHd5dTNqSG5OajAyWWozUzktcW01?oc=5",
+      "subtitle": "IA · Noticias UNAD",
+      "title": "La UNAD abre el debate sobre los retos…",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUTBOc18xeDhLbDFzVjFaRWNreDN2ek5ER1Y5NlhVb2FEaUZyZ3JxOThQOEc5MHQ5X2JDVW9UVkdyNGdCUFJxOTN6LWVlX1dGRGpHUkxxbW1ULXFOZHpTV1VydEQwOFBVdTZyV05Fbk9OS0owUmo4dWdsX2tFQkM1dGRPb3FvUDkyUTV1alNyQzNremZDY3AzVWlMYy1ZNG1tVUMzeXFxYmVkVWxOdGtXNkMtelBsR0RZRTNzSkhKU2JKLUV6UkQzTDJJMnJIbmlGUTI5MXFSWW5fVmRfZDlN?oc=5",
       "who": [
         "kike"
       ]
     },
     {
       "subtitle": "Mundo · DW.com",
-      "title": "La UE y Panamá se oponen a la adopción…",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa3hfMEV0MUZUMHM2X0w1bmkzQ0IzaHBQRFdVTGpyeThiUlRDN1piXzdhbkVRRVVfUi12WlVONHJnZ2J3VDU2OTliV0hBM1dGOEc4aF9UaVFOdlcwaDdhRUlpRjhsOFVKTnRacGtteUdSUWI5NzJvVDBGTVl6NDRjc3Q2ZnZCcVJHbWZnRGJXRlNmcUJmNHdSUlc5WnNWSTJBNU9IOFltQWlDVi1k0gGsAUFVX3lxTE8xV0FsWGx3VGZETElaM1VoLS1SemVKaUNoSXVhZUQ3ek1fRVN2VVpnU0xRU0M5cFhJRHpxelFIRnM2OFEzTHdveW9ySXprLWZKRzBnRFd0SVBJZ0FJY2d6UnI4cVRBMjBVbkFiOXVIMnhUY1BWbHJ0YXZhS01acy1MMHhvWkJVYTlhLW00SnlQR2RsT1ZnRWU0a0Z6M25ablVCV0Z6QVNGZ3dDalU?oc=5",
+      "title": "Las negociaciones sobre el clima fracas…",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNM1QxSkNfeUJzYm11bjZ5b01zTVQ5MmpocUxHbGNHZ19ibDBPU1lIOHlKSVhLUUZHUC1vUlltMlF5eGFuVTc3dkk4SXJRRDY0SFVXbEJfZ0l4aGRMdHBuU1VYeFNtOW5qLVJiLWlZLXdHQmxleThnSGpJeGx3SEFCcV84OFJKZ3NtNFlLTEx0cTc1SHVZSHk1elRiQWpvYW0xamVPWHotNjRFY3VSZ0xOQzhfR3hMOHFYUW1XZ2x3S2E4ZXZEQXFoRkdzdXlWWXRxYXFpTnc5dWE4MHlhWjA2Q19uVS1sNHlKeVdMNnVMUThEWnkzRDlrRmFrc0VZd1NWWHMzaU9jUzNwQnI4RFpTbThnLWRNdTjSAZcCQVVfeXFMUEVnQlJBLWFpV3hqc2phRUZ3TG5CZzFVWjJtZUZhSWllTUNuS3ZlcjZ4TXlIMHlqaUFqNGhFQzVhMzVmb2pjbzhaeExSSjVjOG9sWnFFbmRFUFppa0YxX25Ldmp5QjBmbFM3cXRMU3RObkNBeU5Ia25HZWg3LWU3TTlJUklWT1pubG00eVFEWHZMeFQ0aFJGSEo5bWFKVzVoS0VsTkUwRUVKSi0tRHFtZnNVRGdVQi1qRkF0UGxYOVZZYUtiaVVhcHVDdGMyZzZRRXMxTVpBd0pBTDZYTlpfN25INzVVanNvNGpVb1UzRTQ0Z3N4YUhNZUp3RXU4NEFnSElyQ0w2YmY4Vkx0ZkpuUkNzemNDZ0Vn?oc=5",
       "who": [
         "ehilin"
       ]
     },
     {
       "subtitle": "Mundo · CNN en Español",
-      "title": "Agentes de ICE arrestan a dos inmigrant…",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeWt6c2oyQ3JnajBCT0c5ZkJHVndRTXlRUFcycVhEZ2pkRmpHekxhTENHREVXNEJSay1pQl9Ia0hQUlRXT3g1UEhhejVkWWdDd2RUQWlyNXFKZDVuMHdrODBvUUhZTTVBYjMyTzBhZXZmc3FJNkVLVEwtNmpqV2k2RUVkYUFka00zVm5jS3pJUzBJUGwyOTFmMVJ2SFNnQQ?oc=5",
+      "title": "Última hora de Nvidia, en vivo: regreso…",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLVFGcFdtSkV4M2MxYzR0eEQ5OXg2TG4zNFppV1M3TUc4OVQweXVjLXVEMGUwdGZ0RU1SdEl4T2EtbDVFMzlQSkJqNkIzdUV1WVNTUmxacWd2T2ROdDdweFhKWTBCRlRZcUdDeDVkVk00OFBYY2k0VXZDYTZLUncyTm5kbTVOcGVjTmJpbko5NW1tU29EeVZOUHBtOXJXRHBwcVRR?oc=5",
       "who": [
         "ehilin"
       ]
