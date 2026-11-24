@@ -1,12 +1,12 @@
 {
-  "fecha": "2026-11-23",
+  "fecha": "2026-11-24",
   "fuente": "respaldo",
   "cards": [
     {
       "subtitle": "Hoy en Netflix",
-      "title": "Godzilla Minus One",
-      "value": "Película · Drama",
-      "image": "https://images.justwatch.com/poster/311260247/s332/godzilla-minus-one.jpg",
+      "title": "El Novato",
+      "value": "Serie · Comedia",
+      "image": "https://images.justwatch.com/poster/342627068/s332/the-rookie.jpg",
       "app": "com.netflix.ninja"
     },
     {
@@ -18,23 +18,23 @@
     },
     {
       "subtitle": "Hoy en YouTube",
-      "title": "Don Omar - Virtual Diva",
+      "title": "Don Omar - Dile Old School Reggaeton",
       "value": "Tendencia en Colombia",
-      "image": "https://i.ytimg.com/vi/12QNKcrTrnw/hqdefault.jpg",
+      "image": "https://i.ytimg.com/vi/VYXaavP-NFQ/hqdefault.jpg",
       "app": "com.google.android.youtube.tv"
     },
     {
-      "subtitle": "IA · Gobernación de Boyacá",
-      "title": "Mujeres boyacenses acceden a cinco ruta…",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOS1FwcTZuQjhLRG10VTgzNHZvZEpRaDgxLVZaTERQbUo1eF9SRE5Cd2dobENyRVk5bktpTTFaUW1FQTFZWE9iX0ZWMndONmplRmVIZjRQbW9LZWdEUFZtb2d2cWIyTFFfWURva01kTEU4TWtWYVBKUGM5bUhzSDdpR2NzREhwRVprblo3Q1ZvVm1BbFlMZTV6SE9IS2ZLejhJbGxzNTZIV291VUFBcUhiQ1VnbXd1Wmx2NWx5aVdxVHI5Y3hwUThUV3pjaDRXR1Y5cU1UT3dsYTQ?oc=5",
+      "subtitle": "IA · Instituto Nacional de Contadores Públicos",
+      "title": "¿Cómo validar la información tributaria…",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOM1QyRDQ3SEdqMlpNNGdXZ192NFZQdXh3MHF3VXBLVFU3bnBDbTNKbFhmZTNsV1VuSDJFMVhBWWYxaHgwN29mMVF6OWZOWlpqWFBBTFE2MDJMWVRVSmVWaFQwa3lrd2xDalI0MWxscENzak0tVXdJT3hBcXNjN0V1OVFzbWMzZzlVd2poV1JIT1o5Rkd1MGxKZU44eTJhaFBKYmZXUWFQVEo3ZmRHd01YOW9DX1R2eGlGdXc?oc=5",
       "who": [
         "kike"
       ]
     },
     {
-      "subtitle": "IA · Noticias UNAD",
-      "title": "La UNAD abre el debate sobre los retos…",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUTBOc18xeDhLbDFzVjFaRWNreDN2ek5ER1Y5NlhVb2FEaUZyZ3JxOThQOEc5MHQ5X2JDVW9UVkdyNGdCUFJxOTN6LWVlX1dGRGpHUkxxbW1ULXFOZHpTV1VydEQwOFBVdTZyV05Fbk9OS0owUmo4dWdsX2tFQkM1dGRPb3FvUDkyUTV1alNyQzNremZDY3AzVWlMYy1ZNG1tVUMzeXFxYmVkVWxOdGtXNkMtelBsR0RZRTNzSkhKU2JKLUV6UkQzTDJJMnJIbmlGUTI5MXFSWW5fVmRfZDlN?oc=5",
+      "subtitle": "IA · Universidad Externado de Colombia",
+      "title": "El Externado impulsa la transformación…",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQ3RxQ0ZySDByZEFXWUN2Y2VybEU1Z3ZEUnFaTEtFeHRiRHVPUXFBcERpX0llbE1VWXRzanQzckUtTm5GM19oZDc5Nk9HcUYwTlF2N3dhczMzaGNRZVdLdUgza1ZiWDZUSFZqZlRVY1VDc09rVDZDNGlSRXJNMG1RUlpGd0RzYXhyWW1HUFpuTU82XzVZMDJJNV9PQWhGRnVMT1BQSzlpdG9xZFA0M3hHVUZLQlVLLU1DaExQT0w2Ulc4cWctSVNQSFRsaWk3U05FR3plRjlwUjFEblNmaU91bml6bjNINWY3aWpQMEpRdw?oc=5",
       "who": [
         "kike"
       ]
@@ -48,9 +48,9 @@
       ]
     },
     {
-      "subtitle": "Mundo · CNN en Español",
-      "title": "Última hora de Nvidia, en vivo: regreso…",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLVFGcFdtSkV4M2MxYzR0eEQ5OXg2TG4zNFppV1M3TUc4OVQweXVjLXVEMGUwdGZ0RU1SdEl4T2EtbDVFMzlQSkJqNkIzdUV1WVNTUmxacWd2T2ROdDdweFhKWTBCRlRZcUdDeDVkVk00OFBYY2k0VXZDYTZLUncyTm5kbTVOcGVjTmJpbko5NW1tU29EeVZOUHBtOXJXRHBwcVRR?oc=5",
+      "subtitle": "Mundo · El Tiempo",
+      "title": "El prontuario del narcotraficante colom…",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQd0hWTUxRN0lZM0Z4aFdMVFdKSHg3MlVpdkpONXpyVjZXaVFvNHcwN1ZNN082T18wR2Z3X0JMWEo0TUhrcUdYdVoyMFhsR29hN1hiVFA5cUhBTTFfZzFILU9FbXZwTEZLdXdneFg4R09DajY0RzhvRUZIeVF6cFktYkl2blhYbHgya1FsNE9iemF5aU5tMVA5SWxad3ljLWhyYVRKSVJCcEhjVzhEWlBqN3ZVOUhTNjJjWEhvWDNVSS1ELXVMNmVicUlYYm9JTGg3OUZDdEh1YTZoNXFxT2N6eVVfeWpKSlpCcEtrTndoQ19VdjdPXzFaVFpTS0hmRzhZa2ctUmdJcTFLM0tMS21NSFFnUknSAZoCQVVfeXFMTUIycUlYSkVGT0J3UmNLNDJXSnlZaVhubWI1R0dXVTlrM1FWM0xQZWdfQ3REMTlLYm5vYVNQcHk2RGlQVmRSaExmWXV4bmFDRVZzblh1Z3hEUHowYVJaYzZvS0VmM0R3NUxuTWF2Y2xzNHNxOUdrS3FzQVlGeFVXNjE3RGYtNDUwVTlPQm5vUjhDZ3UtMXlVVS1lWnhtWVlOMFdNRjVkNEM0WlRYazVxOWVNZjBuTWlyVEFlRHcxTnZ5SU40YnRPSHJPMVhMeFRlUndlQl9HNElYOHgtTmgzXzBnbDlPWC1fbjAxZExNRmtOblZ2MlZfLVI4NEVtdE0wRVNwdXR4NmNiY1h4b0FnUlE5cjQyVERyRWtB?oc=5",
       "who": [
         "ehilin"
       ]
