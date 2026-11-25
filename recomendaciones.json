@@ -1,12 +1,12 @@
 {
-  "fecha": "2026-11-24",
+  "fecha": "2026-11-25",
   "fuente": "respaldo",
   "cards": [
     {
       "subtitle": "Hoy en Netflix",
-      "title": "El Novato",
+      "title": "El joven Sheldon",
       "value": "Serie · Comedia",
-      "image": "https://images.justwatch.com/poster/342627068/s332/the-rookie.jpg",
+      "image": "https://images.justwatch.com/poster/311693786/s332/el-joven-sheldon.jpg",
       "app": "com.netflix.ninja"
     },
     {
@@ -18,39 +18,39 @@
     },
     {
       "subtitle": "Hoy en YouTube",
-      "title": "Don Omar - Dile Old School Reggaeton",
+      "title": "Beéle - Quédate",
       "value": "Tendencia en Colombia",
-      "image": "https://i.ytimg.com/vi/VYXaavP-NFQ/hqdefault.jpg",
+      "image": "https://i.ytimg.com/vi/ikS_lZ6l4e0/hqdefault.jpg",
       "app": "com.google.android.youtube.tv"
     },
     {
-      "subtitle": "IA · Instituto Nacional de Contadores Públicos",
-      "title": "¿Cómo validar la información tributaria…",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOM1QyRDQ3SEdqMlpNNGdXZ192NFZQdXh3MHF3VXBLVFU3bnBDbTNKbFhmZTNsV1VuSDJFMVhBWWYxaHgwN29mMVF6OWZOWlpqWFBBTFE2MDJMWVRVSmVWaFQwa3lrd2xDalI0MWxscENzak0tVXdJT3hBcXNjN0V1OVFzbWMzZzlVd2poV1JIT1o5Rkd1MGxKZU44eTJhaFBKYmZXUWFQVEo3ZmRHd01YOW9DX1R2eGlGdXc?oc=5",
+      "subtitle": "IA · Portal Pontificia Universidad Javeriana",
+      "title": "Articulo: Inteligencia artificial socie…",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRlR0SHJYTnhibE9BRVFjQnNCaWJXVG50SGJfTGtwUG50RnlCWkJIcnU1VlRCZXFpV3ZoZTNacWs1S1pvb0ItaTdlQlhFNnNjM3plQ3RmbDJoTVc3Z3F6VkhDaWZoVEJDN2p6Ml8yY09sN2h1OVAya04tN1dxNXdDU2dyOHJsWEUwdVFMbHlpOXVZUmhVb2hUYkF0dlFDekNNbEdV?oc=5",
       "who": [
         "kike"
       ]
     },
     {
-      "subtitle": "IA · Universidad Externado de Colombia",
-      "title": "El Externado impulsa la transformación…",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQ3RxQ0ZySDByZEFXWUN2Y2VybEU1Z3ZEUnFaTEtFeHRiRHVPUXFBcERpX0llbE1VWXRzanQzckUtTm5GM19oZDc5Nk9HcUYwTlF2N3dhczMzaGNRZVdLdUgza1ZiWDZUSFZqZlRVY1VDc09rVDZDNGlSRXJNMG1RUlpGd0RzYXhyWW1HUFpuTU82XzVZMDJJNV9PQWhGRnVMT1BQSzlpdG9xZFA0M3hHVUZLQlVLLU1DaExQT0w2Ulc4cWctSVNQSFRsaWk3U05FR3plRjlwUjFEblNmaU91bml6bjNINWY3aWpQMEpRdw?oc=5",
+      "subtitle": "IA · Unidades Tecnológicas de Santander",
+      "title": "La UTS fortalece su proyección internac…",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeDVCeW1hZ0RvdnRPNm5rUFUxaHZveDA1dngxSnVWLVdObWdOMFg0ZlQyb3VZMDU1MWFRVXMydkJHMHFXVWJpeERlb1liTmxyZmc1alUxbXFGU29Ed1NKMEFKeW1NaE5TWWJOZVdaV3VRRTd2ek11YW9ycjZxdGIwNENKNk1EMklSVWRkS2M1bHlyMUtpQ0dwRjBSYmZTZXJHNHJDQk8tZ05kOVVXVUxwczlqVmVuZjZoTWh1czFuN1FydjA?oc=5",
       "who": [
         "kike"
       ]
     },
     {
-      "subtitle": "Mundo · DW.com",
-      "title": "Las negociaciones sobre el clima fracas…",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNM1QxSkNfeUJzYm11bjZ5b01zTVQ5MmpocUxHbGNHZ19ibDBPU1lIOHlKSVhLUUZHUC1vUlltMlF5eGFuVTc3dkk4SXJRRDY0SFVXbEJfZ0l4aGRMdHBuU1VYeFNtOW5qLVJiLWlZLXdHQmxleThnSGpJeGx3SEFCcV84OFJKZ3NtNFlLTEx0cTc1SHVZSHk1elRiQWpvYW0xamVPWHotNjRFY3VSZ0xOQzhfR3hMOHFYUW1XZ2x3S2E4ZXZEQXFoRkdzdXlWWXRxYXFpTnc5dWE4MHlhWjA2Q19uVS1sNHlKeVdMNnVMUThEWnkzRDlrRmFrc0VZd1NWWHMzaU9jUzNwQnI4RFpTbThnLWRNdTjSAZcCQVVfeXFMUEVnQlJBLWFpV3hqc2phRUZ3TG5CZzFVWjJtZUZhSWllTUNuS3ZlcjZ4TXlIMHlqaUFqNGhFQzVhMzVmb2pjbzhaeExSSjVjOG9sWnFFbmRFUFppa0YxX25Ldmp5QjBmbFM3cXRMU3RObkNBeU5Ia25HZWg3LWU3TTlJUklWT1pubG00eVFEWHZMeFQ0aFJGSEo5bWFKVzVoS0VsTkUwRUVKSi0tRHFtZnNVRGdVQi1qRkF0UGxYOVZZYUtiaVVhcHVDdGMyZzZRRXMxTVpBd0pBTDZYTlpfN25INzVVanNvNGpVb1UzRTQ0Z3N4YUhNZUp3RXU4NEFnSElyQ0w2YmY4Vkx0ZkpuUkNzemNDZ0Vn?oc=5",
+      "subtitle": "Mundo · Revista Semana",
+      "title": "Testigo contra el expresidente Gustavo…",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWnpqcWpUSWpSWnVRT251bXJzd1J5NE93NHlIWEdkci1ha0ZfREwzd2hRNjByZ2RJWUxhLUdVYTN0TFRnV3hxR0dZcExVS0JzMHdOYndESXc5bXFBalNqSnhHQ2pUQ0FTVmdkazFJcUFaenFXZGx2eGs2SWZMVmhqR2xUZnRSd1F1cXluQURLbHQ2aVNxS1RINjJrek53aEVjXy1tdkxIeGpvTF9wVjNzTF85S2VqT1NuT3ZQbW40cEJjaFotXzZ3VWtHcENVajg1Tl9WUDVib1lmelppZ3psQ3Nyc2JuWEk?oc=5",
       "who": [
         "ehilin"
       ]
     },
     {
-      "subtitle": "Mundo · El Tiempo",
-      "title": "El prontuario del narcotraficante colom…",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQd0hWTUxRN0lZM0Z4aFdMVFdKSHg3MlVpdkpONXpyVjZXaVFvNHcwN1ZNN082T18wR2Z3X0JMWEo0TUhrcUdYdVoyMFhsR29hN1hiVFA5cUhBTTFfZzFILU9FbXZwTEZLdXdneFg4R09DajY0RzhvRUZIeVF6cFktYkl2blhYbHgya1FsNE9iemF5aU5tMVA5SWxad3ljLWhyYVRKSVJCcEhjVzhEWlBqN3ZVOUhTNjJjWEhvWDNVSS1ELXVMNmVicUlYYm9JTGg3OUZDdEh1YTZoNXFxT2N6eVVfeWpKSlpCcEtrTndoQ19VdjdPXzFaVFpTS0hmRzhZa2ctUmdJcTFLM0tMS21NSFFnUknSAZoCQVVfeXFMTUIycUlYSkVGT0J3UmNLNDJXSnlZaVhubWI1R0dXVTlrM1FWM0xQZWdfQ3REMTlLYm5vYVNQcHk2RGlQVmRSaExmWXV4bmFDRVZzblh1Z3hEUHowYVJaYzZvS0VmM0R3NUxuTWF2Y2xzNHNxOUdrS3FzQVlGeFVXNjE3RGYtNDUwVTlPQm5vUjhDZ3UtMXlVVS1lWnhtWVlOMFdNRjVkNEM0WlRYazVxOWVNZjBuTWlyVEFlRHcxTnZ5SU40YnRPSHJPMVhMeFRlUndlQl9HNElYOHgtTmgzXzBnbDlPWC1fbjAxZExNRmtOblZ2MlZfLVI4NEVtdE0wRVNwdXR4NmNiY1h4b0FnUlE5cjQyVERyRWtB?oc=5",
+      "subtitle": "Mundo · DW.com",
+      "title": "Monto de la deuda pública de Venezuela…",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOM2hEVHI1dmwxV1N5b0pIUU9oM1NzNV94X3lZeGZRdXd2YzdaeWRLSVJfTXFaR1dRV3Rxa1hCN1ZCenByYXNoTHI3dkFWcVB2Y2lrajA3UVhCd1JfZnVIczBYdGl6QkRXUWg3Zk5ZdEQ5YTZJVV9XUmZ1cmV1WnlobmNzdHVMYk1ibE0wa0NFSTBlZnZmVU1XX0xvSENkY0tySElRWExSS0lEWl9WUDNBVDl4TVNOQkt2S0kwdGo3REQ4amdubXfSAcYBQVVfeXFMUDhBUGtmRnp1bHZMdWlmWFlnd1NscjVvVkpwRmhiaktmRmxvVmhEVFdiUUhoY2FlNHNRRXVlbWQ4c1B2akE3bXd6SnJZYWxSTlRvSlFHY3ViTWNaQVlHRnNBemt2c0NERzdMV25Rb0t3Ql82OFlUT3VweW1PT0NGYllwY0ozSjM2SVV4aEFJYWxJRy1GeTF2cTlFSXJ1c3hjekRYMVJrdFFVQzQtVkhPdkxBWUxhLXM5VUdDLXFPbWhtRWV0dUZ3?oc=5",
       "who": [
         "ehilin"
       ]
