@@ -33,12 +33,22 @@ Noticias (de las últimas 24 a 48 horas, en español; busca en internet):
 - Para cada una: un titular tuyo, claro y corto (máximo 40 caracteres), el nombre del medio y el
   enlace https a la nota original (no a un buscador ni a Google News).
 
+Mensajes del día (escríbelos tú, en español de Colombia, sin buscar en internet):
+- mensaje_ehilin: un mensaje amoroso de Enrique para su esposa Ehilin, cálido, tierno y sincero,
+  como lo diría él (le dice "preciosa" y "mi amor"). Nada cursi de tarjeta ni genérico.
+- mensaje_kike: una afirmación motivacional para Kike, en primera persona y en presente, para
+  manifestar éxito, abundancia y crecimiento ("Hoy atraigo...", "Construyo..."). Breve y con fuerza.
+- Cada uno de máximo 40 caracteres, contando espacios (se ve en dos líneas en el TV). Sin emojis.
+- Que no se parezcan a los de estos días: {MENSAJES}
+
 Responde SOLO con este JSON, sin texto antes ni después y sin bloque de código:
 {"netflix": {"title": "...", "value": "Serie · Drama", "image": "https://...", "por_que": "..."},
  "prime": {"title": "...", "value": "Película · Comedia", "image": "https://...", "por_que": "..."},
  "youtube": {"title": "...", "value": "Tendencia en Colombia", "image": "https://i.ytimg.com/vi/<id>/hqdefault.jpg", "por_que": "..."},
  "noticias_ia": [{"title": "...", "fuente": "...", "url": "https://..."}, {...}],
- "noticias_mundo": [{"title": "...", "fuente": "...", "url": "https://..."}, {...}]}
+ "noticias_mundo": [{"title": "...", "fuente": "...", "url": "https://..."}, {...}],
+ "mensaje_ehilin": "...",
+ "mensaje_kike": "..."}
 
 - title: el título en español como sale en Colombia, máximo 40 caracteres (acórtalo con sentido).
 - value: máximo 24 caracteres ("Serie · <género>", "Película · <género>", o algo corto para YouTube).

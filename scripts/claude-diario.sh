@@ -6,6 +6,9 @@ set -euo pipefail
 cd "$(dirname "$0")/.."
 export PATH="$HOME/.local/bin:/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin"
 unset ANTHROPIC_API_KEY   # usa el plan de Claude, nunca una clave de pago
+# un token de larga duración (claude setup-token), para no depender de la sesión del CLI, que vence
+TOKEN_FILE="$HOME/.config/couchtv-recomendaciones/claude-token"
+if [ -s "$TOKEN_FILE" ]; then export CLAUDE_CODE_OAUTH_TOKEN="$(tr -d '[:space:]' < "$TOKEN_FILE")"; fi
 
 today=$(TZ=America/Bogota date +%F)
 if [ "$(TZ=America/Bogota date +%H%M)" -lt 0630 ] && [ -z "${FORZAR:-}" ]; then exit 0; fi
@@ -14,11 +17,18 @@ done_today=$(python3 -c "import json;d=json.load(open('recomendaciones.json'));p
 if [ "$done_today" = True ] && [ -z "${FORZAR:-}" ]; then exit 0; fi
 
 echo "$(date): eligiendo las de $today"
-recent=$(python3 -c "
-import json,datetime as dt
-h=json.load(open('historial.json'));since=(dt.date.fromisoformat('$today')-dt.timedelta(days=14)).isoformat()
-print('; '.join(sorted({x[k] for x in h if x.get('fecha','')>=since for k in ('netflix','prime','youtube') if x.get(k)})) or 'nada todavía')")
-prompt=$(sed -e "s|{FECHA}|$today|" -e "s|{RECIENTES}|${recent//|/-}|" scripts/prompt-claude.md)
+prompt=$(python3 - "$today" <<'PY'
+import datetime as dt, json, sys
+today = sys.argv[1]
+h = json.load(open("historial.json"))
+def since(days): return (dt.date.fromisoformat(today) - dt.timedelta(days=days)).isoformat()
+recent = sorted({x[k] for x in h if x.get("fecha", "") >= since(14) for k in ("netflix", "prime", "youtube") if x.get(k)})
+notes = [x[k] for x in h if x.get("fecha", "") >= since(30) for k in ("mensaje_ehilin", "mensaje_kike") if x.get(k)]
+text = open("scripts/prompt-claude.md").read()
+print(text.replace("{FECHA}", today).replace("{RECIENTES}", "; ".join(recent) or "nada todavía")
+          .replace("{MENSAJES}", "; ".join(notes) or "ninguno todavía"))
+PY
+)
 
 answer=$(claude -p "$prompt" --model sonnet --allowedTools "WebSearch" "WebFetch" "Bash(curl:*)" </dev/null 2>>"$HOME/Library/Logs/couchtv-recomendaciones.err") \
   || { echo "$(date): claude falló"; exit 0; }

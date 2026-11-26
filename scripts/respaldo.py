@@ -39,6 +39,12 @@ NEWS = [("kike", "IA", "https://news.google.com/rss/search?q=inteligencia+artifi
         ("ehilin", "Mundo", "https://news.google.com/rss/headlines/section/topic/WORLD?hl=es-419&gl=CO&ceid=CO:es-419")]
 URL_SAFE = re.compile(r"^https://[^\s'\"<>\\`$]{1,1000}$")
 
+# un mensaje diario por persona, el primero de su fila: (id, lo grande de la tarjeta, de quién)
+MESSAGES = [("ehilin", "Mi amor", "De tu esposo Enrique"),
+            ("kike", "Manifiesta", "Para ti, Kike, cada día")]
+BANK = ROOT / "mensajes.json"
+MESSAGE_NO_REPEAT_DAYS = 30
+
 QUERY = """query($c: Country!, $p: [String!]){ popularTitles(country:$c, first:25,
  filter:{packages:$p}){ edges{ node{ objectType content(country:$c, language:"es"){
  title posterUrl genres{ translation(language:"es") } } } } } }"""
@@ -98,6 +104,28 @@ def youtube(recent):
     return None
 
 
+def message_card(who, text):
+    value, subtitle = next((v, sub) for w, v, sub in MESSAGES if w == who)
+    return {"value": value, "title": cut(text, 40), "subtitle": subtitle, "who": [who], "tipo": "mensaje"}
+
+
+def message_cards(hist, today):
+    """Un mensaje del banco por persona, sin repetir los de los últimos 30 días."""
+    bank = json.loads(BANK.read_text()) if BANK.exists() else {}
+    since = (today - dt.timedelta(days=MESSAGE_NO_REPEAT_DAYS)).isoformat()
+    cards, picked = [], {}
+    for who, _, _ in MESSAGES:
+        options = [m for m in bank.get(who, []) if isinstance(m, str) and m.strip()]
+        used = {h.get("mensaje_" + who) for h in hist if h.get("fecha", "") >= since}
+        fresh = [m for m in options if m not in used] or options
+        if not fresh:
+            continue
+        text = fresh[today.toordinal() % len(fresh)]
+        cards.append(message_card(who, text))
+        picked["mensaje_" + who] = cards[-1]["title"]
+    return cards, picked
+
+
 def news(label, feed):
     import xml.etree.ElementTree as ET
     out = []
@@ -124,7 +152,7 @@ def news_cards(previous):
         except Exception as e:
             print(f"noticias {who}: el feed falló ({e})", file=sys.stderr)
             got = []
-        got = [dict(c, who=[who]) for c in got] or [c for c in previous if c.get("who") == [who]]
+        got = [dict(c, who=[who], tipo="noticia") for c in got] or [c for c in previous if c.get("who") == [who]]
         print(f"noticias {who}: {len(got)}")
         cards += got
     return cards
@@ -142,6 +170,9 @@ def main():
     before = {c.get("app"): c for c in recs.get("cards", [])}
 
     cards, picked, kept = [], {"fecha": today.isoformat(), "fuente": "respaldo"}, []
+    notes, chosen = message_cards(hist, today)
+    cards += notes
+    picked.update(chosen)
     for subtitle, key, app, package in PLATFORMS:
         try:
             got = streaming(package, recent) if package else youtube(recent)
@@ -155,7 +186,7 @@ def main():
             cards.append(before[app])
             kept.append(key)
         print(f"{key}: {got['title'] if got else 'sin cambio'}")
-    cards += news_cards([c for c in recs.get("cards", []) if c.get("who")])
+    cards += news_cards([c for c in recs.get("cards", []) if c.get("who") and c.get("url")])
 
     RECS.write_text(json.dumps({"fecha": today.isoformat(), "fuente": "respaldo", "cards": cards},
                                indent=2, ensure_ascii=False) + "\n")

@@ -12,7 +12,7 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from respaldo import HIST, KEEP_DAYS, PLATFORMS, RECS, UA, cut  # noqa: E402
+from respaldo import HIST, KEEP_DAYS, MESSAGES, PLATFORMS, RECS, UA, cut, message_card  # noqa: E402
 
 URL_RE = re.compile(r"^https://[^\s'\"<>\\`$]+$")
 
@@ -43,6 +43,17 @@ def main():
     recs = json.loads(RECS.read_text()) if RECS.exists() else {"cards": []}
     before = {c.get("app"): c for c in recs.get("cards", [])}
     cards, entry, new = [], {"fecha": today, "fuente": "claude"}, 0
+    # el mensaje del día de cada persona; si Claude no trae uno que quepa, el del respaldo de hoy
+    for who, _, _ in MESSAGES:
+        text = answer.get("mensaje_" + who)
+        text = " ".join(text.split()) if isinstance(text, str) else ""
+        if 0 < len(text) <= 40:
+            cards.append(message_card(who, text))
+            entry["mensaje_" + who] = text
+            new += 1
+        else:
+            cards += [c for c in recs.get("cards", []) if c.get("who") == [who] and c.get("tipo") == "mensaje"]
+            print(f"mensaje_{who}: sin un mensaje válido, se deja el anterior", file=sys.stderr)
     for subtitle, key, app, _ in PLATFORMS:
         pick = answer.get(key)
         if isinstance(pick, dict) and isinstance(pick.get("title"), str) and image_ok(pick.get("image")):
@@ -69,14 +80,14 @@ def main():
                 continue
             source = " ".join(str(n.get("fuente") or "").split())
             items.append({"subtitle": cut(f"{label} · {source}" if source else label, 60),
-                          "title": cut(n["title"], 40), "url": link, "who": [who]})
+                          "title": cut(n["title"], 40), "url": link, "who": [who], "tipo": "noticia"})
             if len(items) >= 2:
                 break
         if items:
             entry[field] = [i["title"] for i in items]
             new += 1
         else:
-            items = [c for c in recs.get("cards", []) if c.get("who") == [who]]
+            items = [c for c in recs.get("cards", []) if c.get("who") == [who] and c.get("url")]
             print(f"{field}: sin noticias válidas, se dejan las anteriores", file=sys.stderr)
         cards += items
     if new == 0:
@@ -92,6 +103,9 @@ def main():
     for _, key, _, _ in PLATFORMS:
         if key in entry:
             print(f"{key}: {entry[key]} — {entry.get(key + '_por_que', '')}")
+    for who, _, _ in MESSAGES:
+        if "mensaje_" + who in entry:
+            print(f"mensaje_{who}: {entry['mensaje_' + who]}")
     return 0
 
 
