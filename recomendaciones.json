@@ -1,12 +1,12 @@
 {
-  "fecha": "2026-11-25",
+  "fecha": "2026-11-26",
   "fuente": "respaldo",
   "cards": [
     {
       "subtitle": "Hoy en Netflix",
-      "title": "El joven Sheldon",
-      "value": "Serie · Comedia",
-      "image": "https://images.justwatch.com/poster/311693786/s332/el-joven-sheldon.jpg",
+      "title": "El mentalista",
+      "value": "Serie · Crimen",
+      "image": "https://images.justwatch.com/poster/199614970/s332/el-mentalista.jpg",
       "app": "com.netflix.ninja"
     },
     {
@@ -18,39 +18,39 @@
     },
     {
       "subtitle": "Hoy en YouTube",
-      "title": "Beéle - Quédate",
+      "title": "Axel, Fonseca - Cuando Vuelva a Verte",
       "value": "Tendencia en Colombia",
-      "image": "https://i.ytimg.com/vi/ikS_lZ6l4e0/hqdefault.jpg",
+      "image": "https://i.ytimg.com/vi/Wbhw0pQRhdc/hqdefault.jpg",
       "app": "com.google.android.youtube.tv"
     },
     {
-      "subtitle": "IA · Portal Pontificia Universidad Javeriana",
-      "title": "Articulo: Inteligencia artificial socie…",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRlR0SHJYTnhibE9BRVFjQnNCaWJXVG50SGJfTGtwUG50RnlCWkJIcnU1VlRCZXFpV3ZoZTNacWs1S1pvb0ItaTdlQlhFNnNjM3plQ3RmbDJoTVc3Z3F6VkhDaWZoVEJDN2p6Ml8yY09sN2h1OVAya04tN1dxNXdDU2dyOHJsWEUwdVFMbHlpOXVZUmhVb2hUYkF0dlFDekNNbEdV?oc=5",
+      "subtitle": "IA · Centro de Información – Alcaldía de Manizales",
+      "title": "216 personas se graduaron de los bootca…",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRjhGRzBmcXdBcTBwRXdWNDhYRTlTYnBLNUhBalV3RXF2MDk5andtSHROR2w1YmVXLVFIZkhtRWp0WEpNQnlJenFTU05FWHRNXzNhYXNsRTQ2bjFYVkdDV2I5ZVZYMW1nZ1pGV0dLZ2l2RDJoUGt6MmxJZ0VUNDYxcXpmdjhvNGJjLWlCM1NBdGp6anRwV0Y3enpMa0lYcXJWczZNLVJrU0N2V3ROY3RQNzlfU3JJZ205R2dtaW51dC1MZDhJbzJ0YU9YajBIckxUZVhYLWdxclE4ZkVaaXE0VU9NRFpHRGZLRTQ2WFpCQTdvVXM?oc=5",
       "who": [
         "kike"
       ]
     },
     {
-      "subtitle": "IA · Unidades Tecnológicas de Santander",
-      "title": "La UTS fortalece su proyección internac…",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeDVCeW1hZ0RvdnRPNm5rUFUxaHZveDA1dngxSnVWLVdObWdOMFg0ZlQyb3VZMDU1MWFRVXMydkJHMHFXVWJpeERlb1liTmxyZmc1alUxbXFGU29Ed1NKMEFKeW1NaE5TWWJOZVdaV3VRRTd2ek11YW9ycjZxdGIwNENKNk1EMklSVWRkS2M1bHlyMUtpQ0dwRjBSYmZTZXJHNHJDQk8tZ05kOVVXVUxwczlqVmVuZjZoTWh1czFuN1FydjA?oc=5",
+      "subtitle": "IA · The Conversation",
+      "title": "Juguetes con inteligencia artificial: ¿…",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVFBNZmE2VTNvMm5TVnJLeHhrUFBlNkZ2VFB5YnFqNGpiNUFvN040WXpNc0YwRlJ1a1o0blZzajMyNHRqVDE1U2ZRSkR6QWxNSFJlcEljX01CU2RYTlRfZVdUZjRJeHNrYnk5TDRzeU5ac05FSm5JaU0yS2FPSWo2MWdIMFlkUk9zUHNJ?oc=5",
       "who": [
         "kike"
       ]
     },
     {
       "subtitle": "Mundo · Revista Semana",
-      "title": "Testigo contra el expresidente Gustavo…",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWnpqcWpUSWpSWnVRT251bXJzd1J5NE93NHlIWEdkci1ha0ZfREwzd2hRNjByZ2RJWUxhLUdVYTN0TFRnV3hxR0dZcExVS0JzMHdOYndESXc5bXFBalNqSnhHQ2pUQ0FTVmdkazFJcUFaenFXZGx2eGs2SWZMVmhqR2xUZnRSd1F1cXluQURLbHQ2aVNxS1RINjJrek53aEVjXy1tdkxIeGpvTF9wVjNzTF85S2VqT1NuT3ZQbW40cEJjaFotXzZ3VWtHcENVajg1Tl9WUDVib1lmelppZ3psQ3Nyc2JuWEk?oc=5",
+      "title": "Colombiano fue condenado a 20 años de p…",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMDJKRUVfS0JLZHBkTFJweUFBT2xKa1NsSXEwbHQ1dk5nSlJndzNBYXlmMlgxZ19qWWw3UXdrRnpLZVdUWWRmNnl2VUxvTUZTRC1QUFpQNjFLRFRRM2pfZVlkOXdTRXRINVEya1ZTbE5IWmJsaWZ3V0gtZjh2aTBCUDlGbGxpS0lpb2g5RGVBM0tTb1p0a05ad1lzNHB0MVFFWlNHZ1lTNHNkbnNHeXNQRWp4cldpOXgwcU5FMUdMTklZbElxdVlINlprd3BLZ9IB0wFBVV95cUxQYnpsVW9YdS1iME4wc0lTVDB6U3N0UmQwMGFrUFFqQVpwbGdtaTFCNll3UEpfU0ZmOFFaWS1QX0x3UFJINTBKRlJGZUFlVjNCaHY5aWFBblRuQVNnQWRtQWtmcHdKTG9QdThTVXgwS3docExZOTlTQzltOW9qWW9DZ1BabXpOUFRKd2ZHem9FcE41eTBHZks4SUp6aWdJTmZlSHVOUDhTM2ZVamdhNG5NU1d6enNfX25wZHAxWkVhQlNTU1pPRDJ1dmpEWnV1N1JtQjZr?oc=5",
       "who": [
         "ehilin"
       ]
     },
     {
       "subtitle": "Mundo · DW.com",
-      "title": "Monto de la deuda pública de Venezuela…",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOM2hEVHI1dmwxV1N5b0pIUU9oM1NzNV94X3lZeGZRdXd2YzdaeWRLSVJfTXFaR1dRV3Rxa1hCN1ZCenByYXNoTHI3dkFWcVB2Y2lrajA3UVhCd1JfZnVIczBYdGl6QkRXUWg3Zk5ZdEQ5YTZJVV9XUmZ1cmV1WnlobmNzdHVMYk1ibE0wa0NFSTBlZnZmVU1XX0xvSENkY0tySElRWExSS0lEWl9WUDNBVDl4TVNOQkt2S0kwdGo3REQ4amdubXfSAcYBQVVfeXFMUDhBUGtmRnp1bHZMdWlmWFlnd1NscjVvVkpwRmhiaktmRmxvVmhEVFdiUUhoY2FlNHNRRXVlbWQ4c1B2akE3bXd6SnJZYWxSTlRvSlFHY3ViTWNaQVlHRnNBemt2c0NERzdMV25Rb0t3Ql82OFlUT3VweW1PT0NGYllwY0ozSjM2SVV4aEFJYWxJRy1GeTF2cTlFSXJ1c3hjekRYMVJrdFFVQzQtVkhPdkxBWUxhLXM5VUdDLXFPbWhtRWV0dUZ3?oc=5",
+      "title": "Estados Unidos espera imponer nuevos ar…",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS2ZsRTlQNlgyUEtVUmJwUGh5b0s5dVNmZVF1M2Y3U25vb3lzOU5XSk02RnFvdEZ2cWJyQTlzOGNyRnpWZlIzYnduVE56QmRwbl9odDFsLVdWN0pQSC14RVZ5RUItOE9fZXEtS2ZVUHpIeTNSeVBGcVlQd1ZUcnoySm1FX3QtVklTMUVOd3U3LUc5UFZKRVRBZV9acjlIcmZYaDZYaVdpV0ljQk1FZ1Br0gGvAUFVX3lxTE9LelVFb1pqcktlUy1XbV9kWTlRc05qaWY4SE5KRVEyQ1JmdDBZazZnNTBwWnJscW5WYlUzUGJnTm5yWVB6OFlrWDN0MWEySm43NTRoRTV5emJzSTJKUUZRNmh1UTFkNWtCUC1nVUFUUkgwSEV4QjFFbTk0ZnZXVkRnSl9weHJrNEp5ejJUOEV1WTdTN1pkaEJhYnY1d2NzUFlRR3ZKV2VJNW14RVFoYk0?oc=5",
       "who": [
         "ehilin"
       ]
