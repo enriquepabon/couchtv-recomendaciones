@@ -3,22 +3,22 @@
   "fuente": "respaldo",
   "cards": [
     {
-      "value": "Mi amor",
       "title": "Juntos todo es posible",
       "subtitle": "De tu esposo Enrique",
       "who": [
         "ehilin"
       ],
-      "tipo": "mensaje"
+      "tipo": "mensaje",
+      "style": "note"
     },
     {
-      "value": "Manifiesta",
       "title": "Las puertas se abren para mí",
       "subtitle": "Para ti, Kike, cada día",
       "who": [
         "kike"
       ],
-      "tipo": "mensaje"
+      "tipo": "mensaje",
+      "style": "note"
     },
     {
       "subtitle": "Hoy en Netflix",

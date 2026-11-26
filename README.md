@@ -16,7 +16,8 @@ Límites del formato: como máximo 12 tarjetas (8 en couch-tv sin el cambio loca
 - **Después, Claude en el Mac** (cuando está prendido): busca en internet y reemplaza las del día por
   unas elegidas con criterio (`"fuente": "claude"`). Si ya lo hizo, el respaldo no las toca.
 
-Cada persona ve primero su **mensaje del día** (tarjetas con `"who"` y `"tipo": "mensaje"`): para
+Cada persona ve su **mensaje del día** escrito con letra caligráfica encima de su fila (tarjetas con
+`"who"`, `"tipo": "mensaje"` y `"style": "note"`, que couch-tv dibuja como texto, no como tarjeta): para
 Ehilin uno amoroso de Enrique, para Kike una afirmación para manifestar éxito. Claude los escribe
 cada día; el respaldo toma uno de `mensajes.json` sin repetir los de los últimos 30 días. Después
 vienen las tres plataformas y las noticias de cada uno (`"tipo": "noticia"`).

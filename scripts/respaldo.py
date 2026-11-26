@@ -105,8 +105,9 @@ def youtube(recent):
 
 
 def message_card(who, text):
-    value, subtitle = next((v, sub) for w, v, sub in MESSAGES if w == who)
-    return {"value": value, "title": cut(text, 40), "subtitle": subtitle, "who": [who], "tipo": "mensaje"}
+    subtitle = next(sub for w, _, sub in MESSAGES if w == who)
+    # "style": "note": couch-tv lo escribe con letra caligráfica encima de la fila, no como tarjeta
+    return {"title": cut(text, 40), "subtitle": subtitle, "who": [who], "tipo": "mensaje", "style": "note"}
 
 
 def message_cards(hist, today):
