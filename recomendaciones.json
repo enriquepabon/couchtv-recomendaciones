@@ -1,9 +1,9 @@
 {
-  "fecha": "2026-11-26",
-  "fuente": "respaldo",
+  "fecha": "2026-11-27",
+  "fuente": "claude",
   "cards": [
     {
-      "title": "Juntos todo es posible",
+      "title": "Preciosa, contigo mi casa es hogar.",
       "subtitle": "De tu esposo Enrique",
       "who": [
         "ehilin"
@@ -12,7 +12,7 @@
       "style": "note"
     },
     {
-      "title": "Las puertas se abren para mí",
+      "title": "Construyo riqueza con cada decisión.",
       "subtitle": "Para ti, Kike, cada día",
       "who": [
         "kike"
@@ -22,56 +22,56 @@
     },
     {
       "subtitle": "Hoy en Netflix",
-      "title": "Los diarios de la boticaria",
-      "value": "Serie · Animación",
-      "image": "https://images.justwatch.com/poster/322699607/s332/los-diarios-de-la-boticaria.jpg",
+      "title": "The Gentlemen: La serie",
+      "value": "Serie · Crimen",
+      "image": "https://images.justwatch.com/poster/354137634/s332/the-gentlemen.jpg",
       "app": "com.netflix.ninja"
     },
     {
       "subtitle": "Hoy en Prime Video",
-      "title": "El Señor de los Anillos: Los Anillos de…",
-      "value": "Serie · Drama",
-      "image": "https://images.justwatch.com/poster/301085330/s332/el-senor-de-los-anillos.jpg",
+      "title": "Vivir el momento",
+      "value": "Película · Romance",
+      "image": "https://images.justwatch.com/poster/322799184/s332/we-live-in-time.jpg",
       "app": "com.amazon.amazonvideo.livingroom"
     },
     {
       "subtitle": "Hoy en YouTube",
-      "title": "Feid, Snoop Dogg - GRACIAS X TODO",
-      "value": "Tendencia en Colombia",
-      "image": "https://i.ytimg.com/vi/LE_ga8K_4p8/hqdefault.jpg",
+      "title": "Si No Te Hubieras Ido - M. A. Solís",
+      "value": "Música romántica",
+      "image": "https://i.ytimg.com/vi/nLfEUQscRpE/hqdefault.jpg",
       "app": "com.google.android.youtube.tv"
     },
     {
-      "subtitle": "IA · Universidad Externado de Colombia",
-      "title": "Docentes externadistas crearon proyecto…",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTEdBc1hCUm9xWVhFVFo2ZVNUajNZWE1lVm10WGFKaHJNNWg3eUNLMlFjTnVDQlA0dmRJMHJVeHdCQWdFdURkYk9QU0pMUzdZLTYwbDg2QTVmWDRpSFBrcVd5eWllOEd3aTVXQmFQMEpkVGl6U3ZVaHhHYmZ4Qng1WDQ1VFh6NGZuZGtZV2tQa19qVDVMbHVWV3N1VXN6WEFMZlktTXd1Qm1VTDRlYlRKbDAyVEVFT2Rrc2xxX3J5Y1Y4YkhsNHQ5YzZJRUVkZGtSYnJTUmJTWlJJOWI5LTRmNkFnMVZOTVJJVkE?oc=5",
+      "subtitle": "IA · Yahoo Finanzas",
+      "title": "Gemini 4 Neon reta a Claude",
+      "url": "https://es.finance.yahoo.com/noticias/google-desaf%C3%ADa-anthropic-gemini-4-172736410.html",
       "who": [
         "kike"
       ],
       "tipo": "noticia"
     },
     {
-      "subtitle": "IA · Centro de Información – Alcaldía de Manizales",
-      "title": "216 personas se graduaron de los bootca…",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRjhGRzBmcXdBcTBwRXdWNDhYRTlTYnBLNUhBalV3RXF2MDk5andtSHROR2w1YmVXLVFIZkhtRWp0WEpNQnlJenFTU05FWHRNXzNhYXNsRTQ2bjFYVkdDV2I5ZVZYMW1nZ1pGV0dLZ2l2RDJoUGt6MmxJZ0VUNDYxcXpmdjhvNGJjLWlCM1NBdGp6anRwV0Y3enpMa0lYcXJWczZNLVJrU0N2V3ROY3RQNzlfU3JJZ205R2dtaW51dC1MZDhJbzJ0YU9YajBIckxUZVhYLWdxclE4ZkVaaXE0VU9NRFpHRGZLRTQ2WFpCQTdvVXM?oc=5",
+      "subtitle": "IA · Yahoo Noticias",
+      "title": "Anthropic ya cotiza en el Nasdaq",
+      "url": "https://es-us.noticias.yahoo.com/precio-ia-revela-salida-bolsa-022241763.html",
       "who": [
         "kike"
       ],
       "tipo": "noticia"
     },
     {
-      "subtitle": "Mundo · Revista Semana",
-      "title": "Colombiano fue condenado a 20 años de p…",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMDJKRUVfS0JLZHBkTFJweUFBT2xKa1NsSXEwbHQ1dk5nSlJndzNBYXlmMlgxZ19qWWw3UXdrRnpLZVdUWWRmNnl2VUxvTUZTRC1QUFpQNjFLRFRRM2pfZVlkOXdTRXRINVEya1ZTbE5IWmJsaWZ3V0gtZjh2aTBCUDlGbGxpS0lpb2g5RGVBM0tTb1p0a05ad1lzNHB0MVFFWlNHZ1lTNHNkbnNHeXNQRWp4cldpOXgwcU5FMUdMTklZbElxdVlINlprd3BLZ9IB0wFBVV95cUxQYnpsVW9YdS1iME4wc0lTVDB6U3N0UmQwMGFrUFFqQVpwbGdtaTFCNll3UEpfU0ZmOFFaWS1QX0x3UFJINTBKRlJGZUFlVjNCaHY5aWFBblRuQVNnQWRtQWtmcHdKTG9QdThTVXgwS3docExZOTlTQzltOW9qWW9DZ1BabXpOUFRKd2ZHem9FcE41eTBHZks4SUp6aWdJTmZlSHVOUDhTM2ZVamdhNG5NU1d6enNfX25wZHAxWkVhQlNTU1pPRDJ1dmpEWnV1N1JtQjZr?oc=5",
+      "subtitle": "Mundo · DW",
+      "title": "Trump pide a Putin frenar agresión",
+      "url": "https://www.dw.com/es/trump-pide-a-putin-que-retire-toda-agresi%C3%B3n-militar-contra-europa/a-80068205",
       "who": [
         "ehilin"
       ],
       "tipo": "noticia"
     },
     {
-      "subtitle": "Mundo · DW.com",
-      "title": "Estados Unidos espera imponer nuevos ar…",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS2ZsRTlQNlgyUEtVUmJwUGh5b0s5dVNmZVF1M2Y3U25vb3lzOU5XSk02RnFvdEZ2cWJyQTlzOGNyRnpWZlIzYnduVE56QmRwbl9odDFsLVdWN0pQSC14RVZ5RUItOE9fZXEtS2ZVUHpIeTNSeVBGcVlQd1ZUcnoySm1FX3QtVklTMUVOd3U3LUc5UFZKRVRBZV9acjlIcmZYaDZYaVdpV0ljQk1FZ1Br0gGvAUFVX3lxTE9LelVFb1pqcktlUy1XbV9kWTlRc05qaWY4SE5KRVEyQ1JmdDBZazZnNTBwWnJscW5WYlUzUGJnTm5yWVB6OFlrWDN0MWEySm43NTRoRTV5emJzSTJKUUZRNmh1UTFkNWtCUC1nVUFUUkgwSEV4QjFFbTk0ZnZXVkRnSl9weHJrNEp5ejJUOEV1WTdTN1pkaEJhYnY1d2NzUFlRR3ZKV2VJNW14RVFoYk0?oc=5",
+      "subtitle": "Mundo · La Silla Vacía",
+      "title": "Petro y denuncias de intento de fraude",
+      "url": "https://www.lasillavacia.com/silla-nacional/respuestas-pendientes-de-petro-sobre-denuncias-de-que-intento-hacer-fraude/",
       "who": [
         "ehilin"
       ],

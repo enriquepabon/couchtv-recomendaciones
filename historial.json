@@ -106,5 +106,25 @@
     "netflix": "Los diarios de la boticaria",
     "prime": "El Señor de los Anillos: Los Anillos de…",
     "youtube": "Feid, Snoop Dogg - GRACIAS X TODO"
+  },
+  {
+    "fecha": "2026-11-27",
+    "fuente": "claude",
+    "mensaje_ehilin": "Preciosa, contigo mi casa es hogar.",
+    "mensaje_kike": "Construyo riqueza con cada decisión.",
+    "netflix": "The Gentlemen: La serie",
+    "netflix_por_que": "Serie de Guy Ritchie, con humor negro y enredos de mafia, entre las más vistas de Netflix en Colombia hoy y no repetida.",
+    "prime": "Vivir el momento",
+    "prime_por_que": "Drama romántico con Andrew Garfield y Florence Pugh, popular en Prime Video Colombia y buena opción para ver en pareja.",
+    "youtube": "Si No Te Hubieras Ido - M. A. Solís",
+    "youtube_por_que": "Balada romántica de Marco Antonio Solís que está en tendencias de Colombia hoy, tranquila para la sala.",
+    "noticias_ia": [
+      "Gemini 4 Neon reta a Claude",
+      "Anthropic ya cotiza en el Nasdaq"
+    ],
+    "noticias_mundo": [
+      "Trump pide a Putin frenar agresión",
+      "Petro y denuncias de intento de fraude"
+    ]
   }
 ]
