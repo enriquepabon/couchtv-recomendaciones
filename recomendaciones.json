@@ -1,9 +1,9 @@
 {
-  "fecha": "2026-11-27",
+  "fecha": "2026-11-28",
   "fuente": "claude",
   "cards": [
     {
-      "title": "Preciosa, contigo mi casa es hogar.",
+      "title": "Preciosa, mi mejor plan es volver a ti.",
       "subtitle": "De tu esposo Enrique",
       "who": [
         "ehilin"
@@ -12,7 +12,7 @@
       "style": "note"
     },
     {
-      "title": "Construyo riqueza con cada decisión.",
+      "title": "Mi trabajo bien hecho me multiplica.",
       "subtitle": "Para ti, Kike, cada día",
       "who": [
         "kike"
@@ -22,56 +22,47 @@
     },
     {
       "subtitle": "Hoy en Netflix",
-      "title": "The Gentlemen: La serie",
-      "value": "Serie · Crimen",
-      "image": "https://images.justwatch.com/poster/354137634/s332/the-gentlemen.jpg",
+      "title": "Prisioneros",
+      "value": "Película · Suspenso",
+      "image": "https://images.justwatch.com/poster/99687201/s332/prisioneros.jpg",
       "app": "com.netflix.ninja"
     },
     {
       "subtitle": "Hoy en Prime Video",
-      "title": "Vivir el momento",
-      "value": "Película · Romance",
-      "image": "https://images.justwatch.com/poster/322799184/s332/we-live-in-time.jpg",
+      "title": "La Empleada",
+      "value": "Película · Suspenso",
+      "image": "https://images.justwatch.com/poster/340655604/s332/the-housemaid.jpg",
       "app": "com.amazon.amazonvideo.livingroom"
     },
     {
       "subtitle": "Hoy en YouTube",
-      "title": "Si No Te Hubieras Ido - M. A. Solís",
-      "value": "Música romántica",
-      "image": "https://i.ytimg.com/vi/nLfEUQscRpE/hqdefault.jpg",
+      "title": "Yeison Jiménez - Hablando Claro",
+      "value": "Tendencia en Colombia",
+      "image": "https://i.ytimg.com/vi/EaQ3vOMuPVI/hqdefault.jpg",
       "app": "com.google.android.youtube.tv"
     },
     {
-      "subtitle": "IA · Yahoo Finanzas",
-      "title": "Gemini 4 Neon reta a Claude",
-      "url": "https://es.finance.yahoo.com/noticias/google-desaf%C3%ADa-anthropic-gemini-4-172736410.html",
+      "subtitle": "IA · Portafolio",
+      "title": "Anthropic debuta en Wall Street",
+      "url": "https://www.portafolio.co/negocios/empresas/anthropic-debuta-en-wall-street-y-alcanza-una-valoracion-cercana-a-los-us-2-billones-506703",
       "who": [
         "kike"
       ],
       "tipo": "noticia"
     },
     {
-      "subtitle": "IA · Yahoo Noticias",
-      "title": "Anthropic ya cotiza en el Nasdaq",
-      "url": "https://es-us.noticias.yahoo.com/precio-ia-revela-salida-bolsa-022241763.html",
+      "subtitle": "IA · Xataka",
+      "title": "IA y el problema P vs NP: cifrado a sal…",
+      "url": "https://xataka.com/investigacion/anthropic-openai-plantean-nuevas-vias-para-resolver-problema-matematico-que-pondria-jaque-seguridad-informatica-p-np",
       "who": [
         "kike"
       ],
       "tipo": "noticia"
     },
     {
-      "subtitle": "Mundo · DW",
-      "title": "Trump pide a Putin frenar agresión",
-      "url": "https://www.dw.com/es/trump-pide-a-putin-que-retire-toda-agresi%C3%B3n-militar-contra-europa/a-80068205",
-      "who": [
-        "ehilin"
-      ],
-      "tipo": "noticia"
-    },
-    {
-      "subtitle": "Mundo · La Silla Vacía",
-      "title": "Petro y denuncias de intento de fraude",
-      "url": "https://www.lasillavacia.com/silla-nacional/respuestas-pendientes-de-petro-sobre-denuncias-de-que-intento-hacer-fraude/",
+      "subtitle": "Mundo · Infobae (EFE)",
+      "title": "Temas del día: Gaza, Haití y Malvinas",
+      "url": "https://www.infobae.com/america/agencias/2026/11/28/temas-del-dia-de-efe-internacional-del-sabado-28-de-noviembre-1200-gmt/",
       "who": [
         "ehilin"
       ],

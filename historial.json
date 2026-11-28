@@ -126,5 +126,24 @@
       "Trump pide a Putin frenar agresión",
       "Petro y denuncias de intento de fraude"
     ]
+  },
+  {
+    "fecha": "2026-11-28",
+    "fuente": "claude",
+    "mensaje_ehilin": "Preciosa, mi mejor plan es volver a ti.",
+    "mensaje_kike": "Mi trabajo bien hecho me multiplica.",
+    "netflix": "Prisioneros",
+    "netflix_por_que": "Thriller de Denis Villeneuve con Hugh Jackman y Jake Gyllenhaal, muy bien valorado y en el top de Netflix Colombia hoy; es película y no repite serie.",
+    "prime": "La Empleada",
+    "prime_por_que": "Thriller psicológico reciente (2025) y muy comentado, entre lo más visto de Prime Video Colombia, ideal para ver en pareja.",
+    "youtube": "Yeison Jiménez - Hablando Claro",
+    "youtube_por_que": "Video oficial de música popular colombiana que está en tendencias de Colombia hoy; buena opción para la sala.",
+    "noticias_ia": [
+      "Anthropic debuta en Wall Street",
+      "IA y el problema P vs NP: cifrado a sal…"
+    ],
+    "noticias_mundo": [
+      "Temas del día: Gaza, Haití y Malvinas"
+    ]
   }
 ]
